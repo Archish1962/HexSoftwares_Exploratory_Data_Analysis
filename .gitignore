@@ -1,0 +1,18 @@
+# virtual env
+.venv/
+venv/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+
+# notebooks
+.ipynb_checkpoints
+
+
+# misc
+.DS_Store
+.idea/
+.vscode/
+
