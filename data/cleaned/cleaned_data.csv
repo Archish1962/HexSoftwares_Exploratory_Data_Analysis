@@ -1,6 +1,6 @@
 START_DATE,END_DATE,CATEGORY,START,STOP,MILES,PURPOSE
 2016-01-01 21:11:00,2016-01-01 21:17:00,Business,Fort Pierce,Fort Pierce,5.1,Meal/Entertain
-2016-01-02 01:25:00,2016-01-02 01:37:00,Business,Fort Pierce,Fort Pierce,5.0,Unknown
+2016-01-02 01:25:00,2016-01-02 01:37:00,Business,Fort Pierce,Fort Pierce,5.0,NaN
 2016-01-02 20:25:00,2016-01-02 20:38:00,Business,Fort Pierce,Fort Pierce,4.8,Errand/Supplies
 2016-01-05 17:31:00,2016-01-05 17:45:00,Business,Fort Pierce,Fort Pierce,4.7,Meeting
 2016-01-06 14:42:00,2016-01-06 15:49:00,Business,Fort Pierce,West Palm Beach,63.7,Customer Visit
@@ -31,7 +31,7 @@ START_DATE,END_DATE,CATEGORY,START,STOP,MILES,PURPOSE
 ,,Business,Durham,Cary,10.4,Meal/Entertain
 ,,Business,Cary,Cary,4.8,Meal/Entertain
 ,,Business,Farmington Woods,Whitebridge,4.7,Meal/Entertain
-,,Business,Whitebridge,Lake Wellingborough,7.2,Unknown
+,,Business,Whitebridge,Lake Wellingborough,7.2,NaN
 ,,Business,Lake Wellingborough,Whitebridge,7.6,Temporary Site
 ,,Business,Cary,Raleigh,17.1,Meeting
 ,,Business,Fayetteville Street,Umstead,15.1,Meeting
@@ -84,11 +84,11 @@ START_DATE,END_DATE,CATEGORY,START,STOP,MILES,PURPOSE
 2016-02-07 20:22:00,2016-02-07 20:40:00,Business,Morrisville,Cary,6.1,Meeting
 2016-02-08 12:57:00,2016-02-08 13:08:00,Business,Whitebridge,Edgehill Farms,4.3,Meal/Entertain
 2016-02-08 14:00:00,2016-02-08 14:10:00,Business,Edgehill Farms,Whitebridge,2.7,Meal/Entertain
-2016-02-09 10:54:00,2016-02-09 11:07:00,Personal,Whitebridge,Northwoods,5.3,Unknown
-2016-02-09 11:43:00,2016-02-09 11:50:00,Personal,Northwoods,Tanglewood,3.0,Unknown
-2016-02-09 13:36:00,2016-02-09 13:52:00,Personal,Tanglewood,Preston,5.1,Unknown
-2016-02-09 13:58:00,2016-02-09 14:02:00,Personal,Preston,Whitebridge,1.5,Unknown
-2016-02-09 18:55:00,2016-02-09 19:11:00,Business,Cary,Morrisville,6.1,Unknown
+2016-02-09 10:54:00,2016-02-09 11:07:00,Personal,Whitebridge,Northwoods,5.3,NaN
+2016-02-09 11:43:00,2016-02-09 11:50:00,Personal,Northwoods,Tanglewood,3.0,NaN
+2016-02-09 13:36:00,2016-02-09 13:52:00,Personal,Tanglewood,Preston,5.1,NaN
+2016-02-09 13:58:00,2016-02-09 14:02:00,Personal,Preston,Whitebridge,1.5,NaN
+2016-02-09 18:55:00,2016-02-09 19:11:00,Business,Cary,Morrisville,6.1,NaN
 2016-02-09 20:24:00,2016-02-09 20:40:00,Business,Morrisville,Cary,6.1,Meal/Entertain
 2016-02-11 16:28:00,2016-02-11 17:10:00,Business,Cary,Raleigh,17.3,Meal/Entertain
 2016-02-11 17:49:00,2016-02-11 18:10:00,Business,Eastgate,Walnut Terrace,5.7,Meal/Entertain
@@ -101,19 +101,19 @@ START_DATE,END_DATE,CATEGORY,START,STOP,MILES,PURPOSE
 2016-02-12 14:49:00,2016-02-12 15:06:00,Business,Cary,Morrisville,8.4,Meeting
 2016-02-12 15:33:00,2016-02-12 16:06:00,Business,Morrisville,Cary,11.5,Customer Visit
 ,,Business,Cary,Morrisville,8.9,Meeting
-,,Personal,East Elmhurst,Jackson Heights,2.7,Unknown
-,,Personal,Jackson Heights,East Elmhurst,1.8,Unknown
+,,Personal,East Elmhurst,Jackson Heights,2.7,NaN
+,,Personal,Jackson Heights,East Elmhurst,1.8,NaN
 ,,Business,East Elmhurst,New York,8.1,Meeting
 ,,Business,Midtown,Midtown West,2.0,Meeting
 ,,Business,New York,Long Island City,13.0,Meeting
 ,,Business,Long Island City,Jamaica,13.9,Meeting
 ,,Business,Katunayaka,Unknown Location,43.7,Customer Visit
-,,Business,Unknown Location,Colombo,14.1,Unknown
-,,Business,Colombo,Colombo,2.6,Unknown
-,,Business,Colombo,Colombo,4.5,Unknown
-,,Business,Colombo,Colombo,1.7,Unknown
+,,Business,Unknown Location,Colombo,14.1,NaN
+,,Business,Colombo,Colombo,2.6,NaN
+,,Business,Colombo,Colombo,4.5,NaN
+,,Business,Colombo,Colombo,1.7,NaN
 ,,Business,Colombo,Colombo,1.8,Temporary Site
-,,Business,Colombo,Colombo,6.0,Unknown
+,,Business,Colombo,Colombo,6.0,NaN
 ,,Business,Colombo,Nugegoda,1.1,Meal/Entertain
 ,,Business,Nugegoda,Unknown Location,3.6,Errand/Supplies
 ,,Business,Unknown Location,Colombo,14.7,Temporary Site
@@ -128,22 +128,22 @@ START_DATE,END_DATE,CATEGORY,START,STOP,MILES,PURPOSE
 ,,Business,Unknown Location,Unknown Location,18.3,Meeting
 ,,Business,Unknown Location,Unknown Location,11.2,Meeting
 ,,Business,Unknown Location,Islamabad,7.6,Meeting
-,,Personal,Islamabad,Islamabad,1.5,Unknown
-,,Personal,Islamabad,Islamabad,1.0,Unknown
+,,Personal,Islamabad,Islamabad,1.5,NaN
+,,Personal,Islamabad,Islamabad,1.0,NaN
 ,,Business,Islamabad,Unknown Location,7.3,Temporary Site
-,,Business,Unknown Location,Islamabad,3.5,Unknown
-,,Business,Islamabad,Islamabad,4.2,Unknown
-,,Personal,Islamabad,Unknown Location,13.6,Unknown
-,,Personal,Unknown Location,Unknown Location,2.5,Unknown
-,,Personal,Unknown Location,Islamabad,14.4,Unknown
-,,Personal,Islamabad,Islamabad,3.0,Unknown
-,,Personal,Islamabad,Islamabad,1.5,Unknown
-,,Business,Islamabad,R?walpindi,18.4,Unknown
+,,Business,Unknown Location,Islamabad,3.5,NaN
+,,Business,Islamabad,Islamabad,4.2,NaN
+,,Personal,Islamabad,Unknown Location,13.6,NaN
+,,Personal,Unknown Location,Unknown Location,2.5,NaN
+,,Personal,Unknown Location,Islamabad,14.4,NaN
+,,Personal,Islamabad,Islamabad,3.0,NaN
+,,Personal,Islamabad,Islamabad,1.5,NaN
+,,Business,Islamabad,R?walpindi,18.4,NaN
 ,,Business,R?walpindi,R?walpindi,23.1,Meeting
-,,Personal,R?walpindi,Unknown Location,16.5,Unknown
+,,Personal,R?walpindi,Unknown Location,16.5,NaN
 ,,Business,Unknown Location,Unknown Location,3.2,Errand/Supplies
 ,,Business,Unknown Location,Unknown Location,7.7,Errand/Supplies
-,,Business,Unknown Location,Islamabad,14.5,Unknown
+,,Business,Unknown Location,Islamabad,14.5,NaN
 ,,Business,Unknown Location,Islamabad,2.4,Errand/Supplies
 ,,Business,Islamabad,Islamabad,4.6,Errand/Supplies
 ,,Business,Islamabad,Unknown Location,8.8,Meal/Entertain
@@ -152,32 +152,32 @@ START_DATE,END_DATE,CATEGORY,START,STOP,MILES,PURPOSE
 ,,Business,Unknown Location,Islamabad,13.0,Temporary Site
 ,,Business,Islamabad,Noorpur Shahan,8.1,Temporary Site
 ,,Business,Noorpur Shahan,Unknown Location,2.2,Meal/Entertain
-,,Business,Unknown Location,Unknown Location,9.7,Unknown
+,,Business,Unknown Location,Unknown Location,9.7,NaN
 ,,Business,Unknown Location,R?walpindi,20.0,Meeting
 ,,Business,Morrisville,Cary,8.1,Customer Visit
-,,Business,Whitebridge,Preston,1.5,Unknown
+,,Business,Whitebridge,Preston,1.5,NaN
 ,,Business,Preston,Whitebridge,1.7,Errand/Supplies
 ,,Business,Whitebridge,Heritage Pines,3.1,Errand/Supplies
 ,,Business,Heritage Pines,Whitebridge,3.2,Errand/Supplies
 ,,Business,Whitebridge,Tanglewood,6.0,Meal/Entertain
 ,,Business,Tanglewood,Whitebridge,5.8,Meal/Entertain
-,,Business,Whitebridge,Westpark Place,6.3,Unknown
-,,Personal,Westpark Place,Whitebridge,1.7,Unknown
+,,Business,Whitebridge,Westpark Place,6.3,NaN
+,,Personal,Westpark Place,Whitebridge,1.7,NaN
 ,,Business,Cary,Durham,10.6,Meeting
 ,,Business,Durham,Cary,9.9,Meeting
-,,Personal,Whitebridge,Westpark Place,1.9,Unknown
-,,Personal,Westpark Place,Hazelwood,4.2,Unknown
-,,Personal,Hazelwood,Whitebridge,2.0,Unknown
+,,Personal,Whitebridge,Westpark Place,1.9,NaN
+,,Personal,Westpark Place,Hazelwood,4.2,NaN
+,,Personal,Hazelwood,Whitebridge,2.0,NaN
 ,,Business,Whitebridge,Waverly Place,7.7,Meeting
 ,,Business,Waverly Place,Whitebridge,6.8,Meeting
-,,Personal,Whitebridge,Westpark Place,2.1,Unknown
+,,Personal,Whitebridge,Westpark Place,2.1,NaN
 ,,Business,Cary,Apex,3.8,Meeting
 ,,Business,Apex,Cary,5.6,Meeting
-,,Business,Whitebridge,Hazelwood,2.6,Unknown
+,,Business,Whitebridge,Hazelwood,2.6,NaN
 ,,Business,Hazelwood,Whitebridge,6.6,Customer Visit
 2016-03-01 18:47:00,2016-03-01 19:10:00,Business,Whitebridge,Wayne Ridge,8.0,Meal/Entertain
 2016-03-01 21:27:00,2016-03-01 21:45:00,Business,Wayne Ridge,Whitebridge,8.0,Meeting
-2016-03-03 09:45:00,2016-03-03 09:52:00,Personal,Whitebridge,Westpark Place,2.2,Unknown
+2016-03-03 09:45:00,2016-03-03 09:52:00,Personal,Whitebridge,Westpark Place,2.2,NaN
 2016-03-03 11:04:00,2016-03-03 11:10:00,Business,Westpark Place,Whitebridge,2.3,Errand/Supplies
 2016-03-03 14:44:00,2016-03-03 14:58:00,Business,Whitebridge,Northwoods,5.2,Meal/Entertain
 2016-03-03 15:27:00,2016-03-03 15:48:00,Business,Cary,Raleigh,7.6,Customer Visit
@@ -193,8 +193,8 @@ START_DATE,END_DATE,CATEGORY,START,STOP,MILES,PURPOSE
 2016-03-04 19:02:00,2016-03-04 19:08:00,Business,Cary,Morrisville,1.9,Temporary Site
 2016-03-04 19:16:00,2016-03-04 19:25:00,Business,Morrisville,Cary,2.0,Meal/Entertain
 2016-03-05 11:44:00,2016-03-05 11:59:00,Business,Cary,Morrisville,6.5,Meal/Entertain
-2016-03-05 12:57:00,2016-03-05 13:12:00,Personal,Weston,Weston,4.2,Unknown
-2016-03-05 14:08:00,2016-03-05 14:18:00,Personal,Morrisville,Cary,3.5,Unknown
+2016-03-05 12:57:00,2016-03-05 13:12:00,Personal,Weston,Weston,4.2,NaN
+2016-03-05 14:08:00,2016-03-05 14:18:00,Personal,Morrisville,Cary,3.5,NaN
 2016-03-05 14:39:00,2016-03-05 15:01:00,Business,Whitebridge,Wayne Ridge,7.8,Meal/Entertain
 2016-03-05 16:52:00,2016-03-05 17:13:00,Business,Cary,Morrisville,7.8,Meal/Entertain
 2016-03-05 17:23:00,2016-03-05 17:34:00,Business,Morrisville,Cary,3.9,Meal/Entertain
@@ -205,38 +205,38 @@ START_DATE,END_DATE,CATEGORY,START,STOP,MILES,PURPOSE
 2016-03-07 15:19:00,2016-03-07 15:45:00,Business,Raleigh,Cary,11.9,Between Offices
 2016-03-08 14:38:00,2016-03-08 14:55:00,Business,Whitebridge,Waverly Place,7.2,Between Offices
 2016-03-08 15:35:00,2016-03-08 16:00:00,Business,Waverly Place,Whitebridge,7.6,Meal/Entertain
-2016-03-08 16:13:00,2016-03-08 16:25:00,Personal,Whitebridge,Whitebridge,1.6,Unknown
+2016-03-08 16:13:00,2016-03-08 16:25:00,Personal,Whitebridge,Whitebridge,1.6,NaN
 2016-03-10 03:36:00,2016-03-10 03:53:00,Business,Cary,Morrisville,8.4,Meeting
 2016-03-10 10:08:00,2016-03-10 10:37:00,Business,East Austin,West University,12.8,Meeting
-2016-03-10 14:39:00,2016-03-10 14:55:00,Business,West University,South Congress,2.3,Unknown
-2016-03-10 16:18:00,2016-03-10 16:28:00,Business,South Congress,Arts District,1.6,Unknown
+2016-03-10 14:39:00,2016-03-10 14:55:00,Business,West University,South Congress,2.3,NaN
+2016-03-10 16:18:00,2016-03-10 16:28:00,Business,South Congress,Arts District,1.6,NaN
 2016-03-11 09:47:00,2016-03-11 09:59:00,Business,The Drag,Congress Ave District,2.0,Meal/Entertain
-2016-03-11 10:29:00,2016-03-11 10:36:00,Business,Congress Ave District,Downtown,0.8,Unknown
-2016-03-11 11:57:00,2016-03-11 12:04:00,Business,Downtown,Red River District,1.2,Unknown
-2016-03-11 13:43:00,2016-03-11 13:51:00,Business,Red River District,Downtown,1.0,Unknown
-2016-03-11 19:21:00,2016-03-11 19:35:00,Business,South Congress,The Drag,2.1,Unknown
-2016-03-12 09:13:00,2016-03-12 09:22:00,Business,The Drag,South Congress,2.2,Unknown
-2016-03-12 18:27:00,2016-03-12 18:37:00,Personal,South Congress,The Drag,1.9,Unknown
+2016-03-11 10:29:00,2016-03-11 10:36:00,Business,Congress Ave District,Downtown,0.8,NaN
+2016-03-11 11:57:00,2016-03-11 12:04:00,Business,Downtown,Red River District,1.2,NaN
+2016-03-11 13:43:00,2016-03-11 13:51:00,Business,Red River District,Downtown,1.0,NaN
+2016-03-11 19:21:00,2016-03-11 19:35:00,Business,South Congress,The Drag,2.1,NaN
+2016-03-12 09:13:00,2016-03-12 09:22:00,Business,The Drag,South Congress,2.2,NaN
+2016-03-12 18:27:00,2016-03-12 18:37:00,Personal,South Congress,The Drag,1.9,NaN
 ,,Business,The Drag,Convention Center District,5.7,Meal/Entertain
 ,,Business,South Congress,North Austin,8.4,Meal/Entertain
 ,,Business,Georgian Acres,The Drag,6.2,Meal/Entertain
 ,,Business,The Drag,North Austin,10.5,Meal/Entertain
 ,,Business,North Austin,Coxville,7.2,Meal/Entertain
-,,Business,Coxville,The Drag,12.5,Unknown
+,,Business,Coxville,The Drag,12.5,NaN
 ,,Business,The Drag,South Congress,2.0,Errand/Supplies
-,,Business,South Congress,The Drag,2.7,Unknown
+,,Business,South Congress,The Drag,2.7,NaN
 ,,Business,The Drag,Convention Center District,2.0,Meal/Entertain
 ,,Business,Downtown,The Drag,2.8,Meal/Entertain
 ,,Business,The Drag,Congress Ave District,1.7,Meal/Entertain
-,,Business,Convention Center District,West University,2.0,Unknown
+,,Business,Convention Center District,West University,2.0,NaN
 ,,Business,West University,Congress Ave District,2.1,Meal/Entertain
-,,Personal,Downtown,The Drag,1.7,Unknown
+,,Personal,Downtown,The Drag,1.7,NaN
 ,,Business,Austin,Katy,136.0,Customer Visit
 ,,Business,Katy,Houston,30.2,Meeting
 ,,Business,Midtown,Alief,15.5,Meal/Entertain
-,,Personal,Houston,Houston,4.9,Unknown
-,,Personal,Houston,Houston,12.6,Unknown
-,,Personal,Sharpstown,Midtown,10.4,Unknown
+,,Personal,Houston,Houston,4.9,NaN
+,,Personal,Houston,Houston,12.6,NaN
+,,Personal,Sharpstown,Midtown,10.4,NaN
 ,,Business,Midtown,Midtown,1.1,Meal/Entertain
 ,,Business,Midtown,Midtown,1.1,Meal/Entertain
 ,,Business,Midtown,Sharpstown,13.2,Meeting
@@ -248,52 +248,52 @@ START_DATE,END_DATE,CATEGORY,START,STOP,MILES,PURPOSE
 ,,Business,Houston,Galveston,36.5,Meal/Entertain
 ,,Business,Galveston,Port Bolivar,3.1,Meal/Entertain
 ,,Business,Port Bolivar,Port Bolivar,2.1,Errand/Supplies
-,,Business,Port Bolivar,Port Bolivar,1.2,Unknown
+,,Business,Port Bolivar,Port Bolivar,1.2,NaN
 ,,Business,Port Bolivar,Galveston,7.5,Meeting
 ,,Business,Galveston,Houston,57.0,Customer Visit
 ,,Business,Midtown,Washington Avenue,5.9,Meeting
 ,,Business,Washington Avenue,Midtown,6.2,Meeting
-,,Business,Midtown,Sharpstown,10.4,Unknown
-,,Personal,Sharpstown,Briar Meadow,1.2,Unknown
+,,Business,Midtown,Sharpstown,10.4,NaN
+,,Personal,Sharpstown,Briar Meadow,1.2,NaN
 ,,Business,Briar Meadow,Midtown,9.6,Customer Visit
-,,Personal,Midtown,Downtown,1.0,Unknown
+,,Personal,Midtown,Downtown,1.0,NaN
 ,,Business,Downtown,Midtown,0.9,Meal/Entertain
-,,Business,Midtown,Sharpstown,8.8,Unknown
+,,Business,Midtown,Sharpstown,8.8,NaN
 ,,Business,Sharpstown,Midtown,25.6,Meal/Entertain
 ,,Business,Midtown,Greater Greenspoint,23.0,Meal/Entertain
-,,Personal,Morrisville,Cary,8.1,Unknown
-,,Personal,Whitebridge,Whitebridge,1.4,Unknown
-,,Personal,Whitebridge,Preston,1.7,Unknown
-,,Personal,Preston,Whitebridge,1.6,Unknown
-,,Personal,Whitebridge,Westpark Place,2.0,Unknown
-,,Business,Westpark Place,Whitebridge,2.2,Unknown
+,,Personal,Morrisville,Cary,8.1,NaN
+,,Personal,Whitebridge,Whitebridge,1.4,NaN
+,,Personal,Whitebridge,Preston,1.7,NaN
+,,Personal,Preston,Whitebridge,1.6,NaN
+,,Personal,Whitebridge,Westpark Place,2.0,NaN
+,,Business,Westpark Place,Whitebridge,2.2,NaN
 ,,Business,Cary,Latta,144.0,Customer Visit
 ,,Business,Latta,Jacksonville,310.3,Customer Visit
 ,,Business,Jacksonville,Kissimmee,201.0,Meeting
-,,Personal,Couples Glen,Isles of Buena Vista,6.7,Unknown
-,,Personal,Kissimmee,Orlando,8.8,Unknown
-,,Personal,Lake Reams,Lake Reams,1.2,Unknown
+,,Personal,Couples Glen,Isles of Buena Vista,6.7,NaN
+,,Personal,Kissimmee,Orlando,8.8,NaN
+,,Personal,Lake Reams,Lake Reams,1.2,NaN
 ,,Business,Lake Reams,Lake Reams,2.1,Errand/Supplies
 ,,Business,Orlando,Kissimmee,6.6,Meal/Entertain
 ,,Business,Kissimmee,Orlando,6.1,Customer Visit
-,,Personal,Orlando,Orlando,6.9,Unknown
-,,Personal,Orlando,Kissimmee,7.3,Unknown
-,,Personal,Kissimmee,Orlando,3.6,Unknown
-,,Personal,Couples Glen,Vista East,27.2,Unknown
-,,Personal,Orlando,Kissimmee,25.7,Unknown
-,,Personal,Kissimmee,Orlando,13.6,Unknown
-,,Personal,Sand Lake Commons,Sky Lake,6.2,Unknown
-,,Personal,Sky Lake,Sand Lake Commons,6.0,Unknown
-,,Personal,Orlando,Kissimmee,13.8,Unknown
+,,Personal,Orlando,Orlando,6.9,NaN
+,,Personal,Orlando,Kissimmee,7.3,NaN
+,,Personal,Kissimmee,Orlando,3.6,NaN
+,,Personal,Couples Glen,Vista East,27.2,NaN
+,,Personal,Orlando,Kissimmee,25.7,NaN
+,,Personal,Kissimmee,Orlando,13.6,NaN
+,,Personal,Sand Lake Commons,Sky Lake,6.2,NaN
+,,Personal,Sky Lake,Sand Lake Commons,6.0,NaN
+,,Personal,Orlando,Kissimmee,13.8,NaN
 ,,Business,Orlando,Kissimmee,28.8,Meal/Entertain
 ,,Business,Kissimmee,Orlando,16.1,Temporary Site
 ,,Business,Orlando,Kissimmee,16.4,Meal/Entertain
 2016-04-01 13:43:00,2016-04-01 14:01:00,Business,Kissimmee,Kissimmee,11.0,Meeting
 2016-04-01 14:36:00,2016-04-01 15:24:00,Business,Kissimmee,Orlando,15.5,Customer Visit
 2016-04-01 16:01:00,2016-04-01 16:49:00,Business,Orlando,Kissimmee,20.3,Meeting
-2016-04-01 16:52:00,2016-04-01 16:57:00,Personal,Kissimmee,Kissimmee,0.7,Unknown
-2016-04-02 08:48:00,2016-04-02 09:04:00,Personal,Kissimmee,Kissimmee,5.5,Unknown
-2016-04-02 11:01:00,2016-04-02 11:16:00,Personal,Kissimmee,Kissimmee,5.1,Unknown
+2016-04-01 16:52:00,2016-04-01 16:57:00,Personal,Kissimmee,Kissimmee,0.7,NaN
+2016-04-02 08:48:00,2016-04-02 09:04:00,Personal,Kissimmee,Kissimmee,5.5,NaN
+2016-04-02 11:01:00,2016-04-02 11:16:00,Personal,Kissimmee,Kissimmee,5.1,NaN
 2016-04-02 12:21:00,2016-04-02 14:47:00,Business,Kissimmee,Daytona Beach,77.3,Customer Visit
 2016-04-02 16:57:00,2016-04-02 18:09:00,Business,Daytona Beach,Jacksonville,80.5,Customer Visit
 2016-04-02 19:38:00,2016-04-02 22:36:00,Business,Jacksonville,Ridgeland,174.2,Customer Visit
@@ -341,9 +341,9 @@ START_DATE,END_DATE,CATEGORY,START,STOP,MILES,PURPOSE
 ,,Business,Cary,Durham,14.2,Customer Visit
 ,,Business,Durham,Cary,18.2,Meeting
 ,,Business,Whitebridge,Waverly Place,7.7,Meal/Entertain
-,,Business,Waverly Place,Whitebridge,6.8,Unknown
+,,Business,Waverly Place,Whitebridge,6.8,NaN
 2016-05-01 13:45:00,2016-05-01 13:53:00,Business,Whitebridge,Westpark Place,2.1,Meal/Entertain
-2016-05-01 14:26:00,2016-05-01 14:31:00,Business,Westpark Place,Whitebridge,2.3,Unknown
+2016-05-01 14:26:00,2016-05-01 14:31:00,Business,Westpark Place,Whitebridge,2.3,NaN
 2016-05-01 17:33:00,2016-05-01 17:45:00,Business,Whitebridge,Tanglewood,6.2,Between Offices
 2016-05-01 17:54:00,2016-05-01 18:10:00,Business,Tanglewood,Parkway,7.5,Meeting
 2016-05-01 22:38:00,2016-05-01 22:49:00,Business,Parkway,Whitebridge,3.1,Errand/Supplies
@@ -383,14 +383,14 @@ START_DATE,END_DATE,CATEGORY,START,STOP,MILES,PURPOSE
 ,,Business,Whitebridge,Savon Height,3.6,Meal/Entertain
 ,,Business,Savon Height,Whitebridge,3.6,Errand/Supplies
 ,,Business,Whitebridge,Kildaire Farms,4.5,Errand/Supplies
-,,Business,Savon Height,Kilarney Woods,1.2,Unknown
+,,Business,Savon Height,Kilarney Woods,1.2,NaN
 ,,Business,Kilarney Woods,Kildaire Farms,1.7,Errand/Supplies
 ,,Business,Kilarney Woods,Whitebridge,4.7,Errand/Supplies
 ,,Business,Cary,Morrisville,6.1,Meal/Entertain
 ,,Business,Morrisville,Cary,11.3,Customer Visit
 ,,Business,Cary,Raleigh,14.9,Meeting
 ,,Business,Raleigh,Cary,14.0,Meeting
-,,Business,Westpark Place,Whitebridge,1.8,Unknown
+,,Business,Westpark Place,Whitebridge,1.8,NaN
 2016-06-01 10:19:00,2016-06-01 10:47:00,Business,Cary,Morrisville,6.7,Customer Visit
 2016-06-01 13:10:00,2016-06-01 13:39:00,Business,Morrisville,Cary,9.6,Meeting
 2016-06-03 11:29:00,2016-06-03 11:49:00,Business,Cary,Durham,10.4,Meeting
@@ -427,7 +427,7 @@ START_DATE,END_DATE,CATEGORY,START,STOP,MILES,PURPOSE
 2016-06-10 23:53:00,2016-06-11 00:01:00,Business,Durham,Cary,9.9,Meeting
 2016-06-11 17:08:00,2016-06-11 17:16:00,Business,Cary,Morrisville,3.7,Errand/Supplies
 2016-06-11 17:34:00,2016-06-11 17:39:00,Business,Morrisville,Cary,4.6,Meal/Entertain
-2016-06-11 17:50:00,2016-06-11 17:56:00,Business,Westpark Place,Whitebridge,1.7,Unknown
+2016-06-11 17:50:00,2016-06-11 17:56:00,Business,Westpark Place,Whitebridge,1.7,NaN
 2016-06-11 21:45:00,2016-06-11 22:04:00,Business,Cary,Durham,10.4,Meeting
 2016-06-11 23:39:00,2016-06-12 00:05:00,Business,Durham,Cary,9.9,Meeting
 2016-06-12 19:53:00,2016-06-12 19:56:00,Business,Cary,Morrisville,2.5,Meal/Entertain
@@ -438,25 +438,25 @@ START_DATE,END_DATE,CATEGORY,START,STOP,MILES,PURPOSE
 ,,Business,Emeryville,Berkeley,3.9,Meal/Entertain
 ,,Business,Berkeley,Oakland,5.1,Meal/Entertain
 ,,Business,Oakland,Unknown Location,5.2,Customer Visit
-,,Business,Emeryville,San Francisco,9.8,Unknown
+,,Business,Emeryville,San Francisco,9.8,NaN
 ,,Business,San Francisco,Emeryville,11.6,Meeting
 ,,Business,Emeryville,Oakland,5.1,Meeting
 ,,Business,Downtown,Bay Farm Island,9.3,Errand/Supplies
 ,,Business,Kenner,New Orleans,12.4,Between Offices
 ,,Business,CBD,Lower Garden District,1.9,Between Offices
 ,,Business,Lower Garden District,Lakeview,6.4,Customer Visit
-,,Personal,Lakeview,Storyville,5.5,Unknown
+,,Personal,Lakeview,Storyville,5.5,NaN
 ,,Business,Storyville,Faubourg Marigny,1.5,Meal/Entertain
-,,Business,New Orleans,Metairie,14.5,Unknown
-,,Business,Metairie,Kenner,2.7,Unknown
-,,Business,Kenner,New Orleans,15.0,Unknown
-,,Business,New Orleans,Kenner,12.9,Unknown
-,,Business,Kenner,New Orleans,13.6,Unknown
-,,Business,New Orleans,Kenner,12.2,Unknown
-,,Business,Morrisville,Cary,8.7,Unknown
-,,Business,Cary,Raleigh,6.0,Unknown
-,,Business,Raleigh,Cary,5.9,Unknown
-,,Business,Cary,Raleigh,19.3,Unknown
+,,Business,New Orleans,Metairie,14.5,NaN
+,,Business,Metairie,Kenner,2.7,NaN
+,,Business,Kenner,New Orleans,15.0,NaN
+,,Business,New Orleans,Kenner,12.9,NaN
+,,Business,Kenner,New Orleans,13.6,NaN
+,,Business,New Orleans,Kenner,12.2,NaN
+,,Business,Morrisville,Cary,8.7,NaN
+,,Business,Cary,Raleigh,6.0,NaN
+,,Business,Raleigh,Cary,5.9,NaN
+,,Business,Cary,Raleigh,19.3,NaN
 ,,Business,Raleigh,Cary,16.6,Meal/Entertain
 ,,Business,Whitebridge,Waverly Place,7.1,Meal/Entertain
 ,,Business,Waverly Place,Macgregor Downs,2.1,Meal/Entertain
@@ -464,38 +464,38 @@ START_DATE,END_DATE,CATEGORY,START,STOP,MILES,PURPOSE
 ,,Business,Raleigh,Morrisville,9.0,Errand/Supplies
 ,,Business,Morrisville,Cary,3.1,Errand/Supplies
 ,,Business,Cary,Morrisville,8.4,Temporary Site
-,,Business,Kenner,New Orleans,12.8,Unknown
-,,Business,CBD,Bywater,4.5,Unknown
+,,Business,Kenner,New Orleans,12.8,NaN
+,,Business,CBD,Bywater,4.5,NaN
 ,,Business,New Orleans,Chalmette,11.8,Between Offices
 ,,Business,Chalmette,Arabi,1.1,Errand/Supplies
 ,,Business,Arabi,Metairie,17.0,Meal/Entertain
 ,,Business,Pontchartrain Shores,Pontchartrain Shores,1.7,Meeting
 ,,Business,Metairie,New Orleans,15.5,Meeting
-,,Business,Storyville,Marigny,1.6,Unknown
-,,Business,Marigny,Storyville,1.5,Unknown
+,,Business,Storyville,Marigny,1.6,NaN
+,,Business,Marigny,Storyville,1.5,NaN
 ,,Business,New Orleans,Kenner,12.6,Meeting
-,,Business,Pontchartrain Shores,Pontchartrain Shores,4.8,Unknown
-,,Business,Kenner,Kenner,2.2,Unknown
-,,Business,Kenner,New Orleans,13.0,Unknown
-,,Business,New Orleans,Covington,46.9,Unknown
-,,Business,Covington,Covington,2.5,Unknown
-,,Business,Covington,Covington,8.6,Unknown
-,,Business,Covington,Covington,5.2,Unknown
-,,Business,Covington,Covington,7.6,Unknown
-,,Business,Covington,Covington,1.8,Unknown
-,,Business,Covington,Mandeville,4.7,Unknown
-,,Business,Mandeville,Mandeville,2.8,Unknown
-,,Business,Mandeville,Metairie,30.0,Unknown
-,,Business,Metairie,Kenner,4.4,Unknown
-,,Business,Jamestown Court,Jamestown Court,1.0,Unknown
+,,Business,Pontchartrain Shores,Pontchartrain Shores,4.8,NaN
+,,Business,Kenner,Kenner,2.2,NaN
+,,Business,Kenner,New Orleans,13.0,NaN
+,,Business,New Orleans,Covington,46.9,NaN
+,,Business,Covington,Covington,2.5,NaN
+,,Business,Covington,Covington,8.6,NaN
+,,Business,Covington,Covington,5.2,NaN
+,,Business,Covington,Covington,7.6,NaN
+,,Business,Covington,Covington,1.8,NaN
+,,Business,Covington,Mandeville,4.7,NaN
+,,Business,Mandeville,Mandeville,2.8,NaN
+,,Business,Mandeville,Metairie,30.0,NaN
+,,Business,Metairie,Kenner,4.4,NaN
+,,Business,Jamestown Court,Jamestown Court,1.0,NaN
 ,,Business,Morrisville,Cary,8.2,Customer Visit
 ,,Business,Cary,Durham,10.4,Meeting
 ,,Business,Durham,Cary,9.9,Meeting
 ,,Business,Durham,Cary,9.9,Meeting
-,,Business,Cary,Morrisville,7.3,Unknown
-,,Business,Morrisville,Cary,7.4,Unknown
-,,Business,Whitebridge,Westpark Place,1.6,Unknown
-,,Business,Westpark Place,Whitebridge,1.8,Unknown
+,,Business,Cary,Morrisville,7.3,NaN
+,,Business,Morrisville,Cary,7.4,NaN
+,,Business,Whitebridge,Westpark Place,1.6,NaN
+,,Business,Westpark Place,Whitebridge,1.8,NaN
 ,,Business,Cary,Durham,10.4,Meeting
 ,,Business,Durham,Cary,9.9,Meeting
 ,,Business,Cary,Durham,9.9,Meeting
@@ -516,46 +516,46 @@ START_DATE,END_DATE,CATEGORY,START,STOP,MILES,PURPOSE
 2016-07-05 00:00:00,2016-07-05 00:05:00,Business,Parkwood,Parkwood,1.2,Errand/Supplies
 2016-07-05 00:08:00,2016-07-05 00:28:00,Business,Durham,Cary,9.9,Meeting
 2016-07-05 16:48:00,2016-07-05 16:52:00,Business,Whitebridge,Whitebridge,0.6,Errand/Supplies
-2016-07-05 20:06:00,2016-07-05 20:26:00,Business,Cary,Durham,9.9,Unknown
-2016-07-05 22:41:00,2016-07-05 23:02:00,Business,Durham,Morrisville,8.6,Unknown
+2016-07-05 20:06:00,2016-07-05 20:26:00,Business,Cary,Durham,9.9,NaN
+2016-07-05 22:41:00,2016-07-05 23:02:00,Business,Durham,Morrisville,8.6,NaN
 2016-07-06 00:33:00,2016-07-06 00:53:00,Business,Morrisville,Cary,6.3,Meal/Entertain
 2016-07-06 09:06:00,2016-07-06 09:25:00,Business,Cary,Durham,9.9,Meeting
-2016-07-06 12:48:00,2016-07-06 13:08:00,Business,Durham,Cary,9.9,Unknown
+2016-07-06 12:48:00,2016-07-06 13:08:00,Business,Durham,Cary,9.9,NaN
 2016-07-06 20:04:00,2016-07-06 20:14:00,Business,Cary,Morrisville,3.3,Meal/Entertain
 2016-07-06 23:46:00,2016-07-06 23:59:00,Business,Morrisville,Cary,3.1,Customer Visit
 2016-07-07 08:22:00,2016-07-07 08:50:00,Business,Cary,Morrisville,7.9,Temporary Site
-2016-07-07 10:27:00,2016-07-07 10:33:00,Business,Morrisville,Cary,8.9,Unknown
-2016-07-07 12:59:00,2016-07-07 13:35:00,Business,Kenner,New Orleans,12.8,Unknown
-2016-07-08 09:50:00,2016-07-08 10:13:00,Business,CBD,Pontchartrain Beach,7.7,Unknown
-2016-07-08 10:51:00,2016-07-08 11:12:00,Business,Pontchartrain Beach,CBD,7.0,Unknown
-2016-07-08 13:48:00,2016-07-08 14:11:00,Business,New Orleans,Metairie,12.5,Unknown
-2016-07-08 17:11:00,2016-07-08 17:30:00,Business,Kenner,New Orleans,13.2,Unknown
-2016-07-09 09:03:00,2016-07-09 09:46:00,Business,New Orleans,Kenner,13.0,Unknown
-2016-07-09 09:52:00,2016-07-09 10:06:00,Business,Kenner,Metairie,4.9,Unknown
-2016-07-09 10:15:00,2016-07-09 10:33:00,Business,Metairie,New Orleans,8.5,Unknown
-2016-07-10 14:10:00,2016-07-10 14:17:00,Business,CBD,St Thomas,1.3,Unknown
-2016-07-10 16:04:00,2016-07-10 16:15:00,Business,St Thomas,CBD,1.8,Unknown
-2016-07-10 18:05:00,2016-07-10 18:21:00,Business,New Orleans,Kenner,13.6,Unknown
-2016-07-10 19:51:00,2016-07-10 20:08:00,Business,Kenner,New Orleans,13.4,Unknown
-2016-07-12 16:10:00,2016-07-12 16:45:00,Business,New Orleans,Kenner,12.3,Unknown
-2016-07-12 19:21:00,2016-07-12 19:26:00,Personal,Kenner,Kenner,1.4,Unknown
-2016-07-12 23:47:00,,Personal,Morrisville,Cary,8.7,Unknown
-,,Personal,Cary,Morrisville,23.5,Unknown
-,,Personal,Morrisville,Morrisville,2.2,Unknown
-,,Personal,Morrisville,Cary,4.4,Unknown
-,,Personal,Cary,Morrisville,3.3,Unknown
+2016-07-07 10:27:00,2016-07-07 10:33:00,Business,Morrisville,Cary,8.9,NaN
+2016-07-07 12:59:00,2016-07-07 13:35:00,Business,Kenner,New Orleans,12.8,NaN
+2016-07-08 09:50:00,2016-07-08 10:13:00,Business,CBD,Pontchartrain Beach,7.7,NaN
+2016-07-08 10:51:00,2016-07-08 11:12:00,Business,Pontchartrain Beach,CBD,7.0,NaN
+2016-07-08 13:48:00,2016-07-08 14:11:00,Business,New Orleans,Metairie,12.5,NaN
+2016-07-08 17:11:00,2016-07-08 17:30:00,Business,Kenner,New Orleans,13.2,NaN
+2016-07-09 09:03:00,2016-07-09 09:46:00,Business,New Orleans,Kenner,13.0,NaN
+2016-07-09 09:52:00,2016-07-09 10:06:00,Business,Kenner,Metairie,4.9,NaN
+2016-07-09 10:15:00,2016-07-09 10:33:00,Business,Metairie,New Orleans,8.5,NaN
+2016-07-10 14:10:00,2016-07-10 14:17:00,Business,CBD,St Thomas,1.3,NaN
+2016-07-10 16:04:00,2016-07-10 16:15:00,Business,St Thomas,CBD,1.8,NaN
+2016-07-10 18:05:00,2016-07-10 18:21:00,Business,New Orleans,Kenner,13.6,NaN
+2016-07-10 19:51:00,2016-07-10 20:08:00,Business,Kenner,New Orleans,13.4,NaN
+2016-07-12 16:10:00,2016-07-12 16:45:00,Business,New Orleans,Kenner,12.3,NaN
+2016-07-12 19:21:00,2016-07-12 19:26:00,Personal,Kenner,Kenner,1.4,NaN
+2016-07-12 23:47:00,,Personal,Morrisville,Cary,8.7,NaN
+,,Personal,Cary,Morrisville,23.5,NaN
+,,Personal,Morrisville,Morrisville,2.2,NaN
+,,Personal,Morrisville,Cary,4.4,NaN
+,,Personal,Cary,Morrisville,3.3,NaN
 ,,Business,Morrisville,Morrisville,11.8,Errand/Supplies
-,,Business,Morrisville,Banner Elk,195.3,Unknown
-,,Personal,Banner Elk,Banner Elk,8.3,Unknown
-,,Personal,Banner Elk,Banner Elk,3.2,Unknown
-,,Personal,Banner Elk,Elk Park,22.4,Unknown
-,,Personal,Elk Park,Banner Elk,12.2,Unknown
-,,Personal,Banner Elk,Banner Elk,4.5,Unknown
-,,Personal,Banner Elk,Newland,28.1,Unknown
-,,Personal,Newland,Newland,3.8,Unknown
-,,Personal,Newland,Boone,41.9,Unknown
-,,Personal,Boone,Banner Elk,23.8,Unknown
-,,Personal,Banner Elk,Banner Elk,13.0,Unknown
+,,Business,Morrisville,Banner Elk,195.3,NaN
+,,Personal,Banner Elk,Banner Elk,8.3,NaN
+,,Personal,Banner Elk,Banner Elk,3.2,NaN
+,,Personal,Banner Elk,Elk Park,22.4,NaN
+,,Personal,Elk Park,Banner Elk,12.2,NaN
+,,Personal,Banner Elk,Banner Elk,4.5,NaN
+,,Personal,Banner Elk,Newland,28.1,NaN
+,,Personal,Newland,Newland,3.8,NaN
+,,Personal,Newland,Boone,41.9,NaN
+,,Personal,Boone,Banner Elk,23.8,NaN
+,,Personal,Banner Elk,Banner Elk,13.0,NaN
 ,,Business,Banner Elk,Banner Elk,4.4,Errand/Supplies
 ,,Personal,Banner Elk,Boone,15.1,Charity ($)
 ,,Personal,Boone,Cary,180.2,Commute
@@ -572,398 +572,398 @@ START_DATE,END_DATE,CATEGORY,START,STOP,MILES,PURPOSE
 ,,Business,Stonewater,Lexington Park at Amberly,3.0,Meeting
 ,,Business,Lexington Park at Amberly,Whitebridge,8.7,Meal/Entertain
 ,,Business,Whitebridge,Chessington,3.9,Errand/Supplies
-,,Personal,Chessington,Whitebridge,4.8,Unknown
-,,Personal,Whitebridge,Edgehill Farms,2.8,Unknown
-,,Personal,Edgehill Farms,Preston,1.4,Unknown
-,,Personal,Preston,Whitebridge,1.4,Unknown
-,,Business,Whitebridge,Edgehill Farms,2.7,Unknown
-,,Business,Edgehill Farms,Burtrose,2.3,Unknown
-,,Business,Cary,Morrisville,3.7,Unknown
-,,Business,Morrisville,Cary,2.9,Unknown
-,,Business,Cary,Morrisville,3.8,Unknown
-,,Business,Morrisville,Cary,5.1,Unknown
-,,Business,Hazelwood,Lexington Park at Amberly,9.1,Unknown
-,,Business,Cary,Durham,8.0,Unknown
+,,Personal,Chessington,Whitebridge,4.8,NaN
+,,Personal,Whitebridge,Edgehill Farms,2.8,NaN
+,,Personal,Edgehill Farms,Preston,1.4,NaN
+,,Personal,Preston,Whitebridge,1.4,NaN
+,,Business,Whitebridge,Edgehill Farms,2.7,NaN
+,,Business,Edgehill Farms,Burtrose,2.3,NaN
+,,Business,Cary,Morrisville,3.7,NaN
+,,Business,Morrisville,Cary,2.9,NaN
+,,Business,Cary,Morrisville,3.8,NaN
+,,Business,Morrisville,Cary,5.1,NaN
+,,Business,Hazelwood,Lexington Park at Amberly,9.1,NaN
+,,Business,Cary,Durham,8.0,NaN
 ,,Business,Durham,Cary,9.9,Meeting
 ,,Business,Cary,Morrisville,6.1,Meal/Entertain
-,,Business,Morrisville,Cary,12.2,Unknown
-,,Business,Wayne Ridge,Whitebridge,8.0,Unknown
-,,Business,Cary,Morrisville,4.0,Unknown
-,,Business,Morrisville,Cary,9.5,Unknown
-,,Business,Cary,Morrisville,3.0,Unknown
-,,Business,Morrisville,Cary,6.3,Unknown
+,,Business,Morrisville,Cary,12.2,NaN
+,,Business,Wayne Ridge,Whitebridge,8.0,NaN
+,,Business,Cary,Morrisville,4.0,NaN
+,,Business,Morrisville,Cary,9.5,NaN
+,,Business,Cary,Morrisville,3.0,NaN
+,,Business,Morrisville,Cary,6.3,NaN
 ,,Business,Cary,Durham,10.4,Meeting
 ,,Business,Durham,Cary,9.9,Meeting
-,,Business,Whitebridge,Parkway,1.5,Unknown
-,,Business,Cary,Morrisville,4.9,Unknown
-,,Business,Morrisville,Cary,7.9,Unknown
-,,Business,Parkway,Whitebridge,1.7,Unknown
-,,Business,Whitebridge,Westpark Place,2.2,Unknown
-,,Business,Westpark Place,Whitebridge,2.1,Unknown
+,,Business,Whitebridge,Parkway,1.5,NaN
+,,Business,Cary,Morrisville,4.9,NaN
+,,Business,Morrisville,Cary,7.9,NaN
+,,Business,Parkway,Whitebridge,1.7,NaN
+,,Business,Whitebridge,Westpark Place,2.2,NaN
+,,Business,Westpark Place,Whitebridge,2.1,NaN
 ,,Business,Cary,Morrisville,2.5,Meal/Entertain
 ,,Business,Morrisville,Cary,2.5,Meal/Entertain
-,,Business,Cary,Morrisville,2.8,Unknown
-,,Business,Morrisville,Raleigh,14.7,Unknown
-,,Business,Raleigh,Morrisville,14.6,Unknown
-,,Business,Morrisville,Cary,2.3,Unknown
-,,Business,Whitebridge,Westpark Place,2.2,Unknown
+,,Business,Cary,Morrisville,2.8,NaN
+,,Business,Morrisville,Raleigh,14.7,NaN
+,,Business,Raleigh,Morrisville,14.6,NaN
+,,Business,Morrisville,Cary,2.3,NaN
+,,Business,Whitebridge,Westpark Place,2.2,NaN
 ,,Business,Westpark Place,Whitebridge,2.2,Meal/Entertain
-,,Business,Cary,Durham,14.0,Unknown
-,,Business,Durham,Cary,13.3,Unknown
-,,Business,Westpark Place,Whitebridge,1.8,Unknown
-2016-08-01 12:47:00,2016-08-01 13:04:00,Business,Whitebridge,Arlington Park at Amberly,6.2,Unknown
-2016-08-01 13:08:00,2016-08-01 13:19:00,Business,Arlington Park at Amberly,Lexington Park at Amberly,1.3,Unknown
-2016-08-01 13:28:00,2016-08-01 13:46:00,Business,Lexington Park at Amberly,Westpark Place,1.9,Unknown
-2016-08-01 13:52:00,2016-08-01 14:14:00,Business,Cary,Apex,6.9,Unknown
-2016-08-01 15:40:00,2016-08-01 15:47:00,Business,Apex,Cary,4.6,Unknown
-2016-08-01 16:18:00,2016-08-01 16:25:00,Business,Whitebridge,Edgehill Farms,2.8,Unknown
-2016-08-01 16:29:00,2016-08-01 16:59:00,Business,Cary,Morrisville,9.1,Unknown
-2016-08-01 17:23:00,2016-08-01 17:55:00,Business,Morrisville,Cary,8.1,Unknown
+,,Business,Cary,Durham,14.0,NaN
+,,Business,Durham,Cary,13.3,NaN
+,,Business,Westpark Place,Whitebridge,1.8,NaN
+2016-08-01 12:47:00,2016-08-01 13:04:00,Business,Whitebridge,Arlington Park at Amberly,6.2,NaN
+2016-08-01 13:08:00,2016-08-01 13:19:00,Business,Arlington Park at Amberly,Lexington Park at Amberly,1.3,NaN
+2016-08-01 13:28:00,2016-08-01 13:46:00,Business,Lexington Park at Amberly,Westpark Place,1.9,NaN
+2016-08-01 13:52:00,2016-08-01 14:14:00,Business,Cary,Apex,6.9,NaN
+2016-08-01 15:40:00,2016-08-01 15:47:00,Business,Apex,Cary,4.6,NaN
+2016-08-01 16:18:00,2016-08-01 16:25:00,Business,Whitebridge,Edgehill Farms,2.8,NaN
+2016-08-01 16:29:00,2016-08-01 16:59:00,Business,Cary,Morrisville,9.1,NaN
+2016-08-01 17:23:00,2016-08-01 17:55:00,Business,Morrisville,Cary,8.1,NaN
 2016-08-02 08:11:00,2016-08-02 08:32:00,Business,Cary,Morrisville,8.4,Meeting
-2016-08-02 11:51:00,2016-08-02 12:15:00,Business,Arlington,Washington,4.9,Unknown
-2016-08-02 19:15:00,2016-08-02 19:23:00,Business,Kalorama Triangle,K Street,1.0,Unknown
-2016-08-02 21:23:00,2016-08-02 21:29:00,Business,K Street,Kalorama Triangle,1.0,Unknown
-2016-08-03 12:46:00,2016-08-03 13:00:00,Business,West End,Northwest Rectangle,2.0,Unknown
-2016-08-03 14:59:00,2016-08-03 15:03:00,Business,K Street,Kalorama Triangle,1.1,Unknown
-2016-08-03 16:00:00,2016-08-03 16:04:00,Business,Kalorama Triangle,Downtown,1.5,Unknown
-2016-08-05 17:23:00,2016-08-05 17:30:00,Business,Connecticut Avenue,Kalorama Triangle,1.3,Unknown
-2016-08-05 18:17:00,2016-08-05 18:21:00,Business,Kalorama Triangle,Columbia Heights,1.8,Unknown
-2016-08-05 19:17:00,2016-08-05 19:27:00,Business,Columbia Heights,Kalorama Triangle,1.5,Unknown
-2016-08-06 06:40:00,2016-08-06 06:58:00,Business,Washington,Arlington,6.6,Unknown
-2016-08-06 09:31:00,2016-08-06 09:53:00,Business,Morrisville,Cary,8.0,Unknown
-2016-08-07 17:14:00,2016-08-07 17:23:00,Business,Whitebridge,Edgehill Farms,2.7,Unknown
+2016-08-02 11:51:00,2016-08-02 12:15:00,Business,Arlington,Washington,4.9,NaN
+2016-08-02 19:15:00,2016-08-02 19:23:00,Business,Kalorama Triangle,K Street,1.0,NaN
+2016-08-02 21:23:00,2016-08-02 21:29:00,Business,K Street,Kalorama Triangle,1.0,NaN
+2016-08-03 12:46:00,2016-08-03 13:00:00,Business,West End,Northwest Rectangle,2.0,NaN
+2016-08-03 14:59:00,2016-08-03 15:03:00,Business,K Street,Kalorama Triangle,1.1,NaN
+2016-08-03 16:00:00,2016-08-03 16:04:00,Business,Kalorama Triangle,Downtown,1.5,NaN
+2016-08-05 17:23:00,2016-08-05 17:30:00,Business,Connecticut Avenue,Kalorama Triangle,1.3,NaN
+2016-08-05 18:17:00,2016-08-05 18:21:00,Business,Kalorama Triangle,Columbia Heights,1.8,NaN
+2016-08-05 19:17:00,2016-08-05 19:27:00,Business,Columbia Heights,Kalorama Triangle,1.5,NaN
+2016-08-06 06:40:00,2016-08-06 06:58:00,Business,Washington,Arlington,6.6,NaN
+2016-08-06 09:31:00,2016-08-06 09:53:00,Business,Morrisville,Cary,8.0,NaN
+2016-08-07 17:14:00,2016-08-07 17:23:00,Business,Whitebridge,Edgehill Farms,2.7,NaN
 2016-08-07 17:28:00,2016-08-07 17:43:00,Business,Edgehill Farms,Whitebridge,2.7,Customer Visit
-2016-08-07 18:17:00,2016-08-07 18:23:00,Business,Cary,Morrisville,2.5,Unknown
+2016-08-07 18:17:00,2016-08-07 18:23:00,Business,Cary,Morrisville,2.5,NaN
 2016-08-07 20:15:00,2016-08-07 20:23:00,Business,Morrisville,Cary,2.5,Meal/Entertain
-2016-08-08 16:17:00,2016-08-08 16:31:00,Business,Whitebridge,Farmington Woods,5.2,Unknown
-2016-08-08 16:37:00,2016-08-08 16:50:00,Business,Farmington Woods,Edgehill Farms,4.0,Unknown
+2016-08-08 16:17:00,2016-08-08 16:31:00,Business,Whitebridge,Farmington Woods,5.2,NaN
+2016-08-08 16:37:00,2016-08-08 16:50:00,Business,Farmington Woods,Edgehill Farms,4.0,NaN
 2016-08-08 17:02:00,2016-08-08 17:13:00,Business,Edgehill Farms,Whitebridge,2.7,Customer Visit
-2016-08-08 21:50:00,2016-08-08 22:15:00,Business,Cary,Morrisville,4.8,Unknown
+2016-08-08 21:50:00,2016-08-08 22:15:00,Business,Cary,Morrisville,4.8,NaN
 2016-08-08 23:28:00,2016-08-08 23:37:00,Business,Morrisville,Cary,3.2,Customer Visit
-2016-08-09 14:20:00,2016-08-09 14:38:00,Business,Whitebridge,Waverly Place,6.9,Unknown
-2016-08-09 15:15:00,2016-08-09 15:36:00,Business,Cary,Raleigh,14.9,Unknown
-2016-08-09 16:04:00,2016-08-09 16:37:00,Business,Raleigh,Cary,17.4,Unknown
-2016-08-10 16:56:00,2016-08-10 17:24:00,Business,Cary,Durham,12.9,Unknown
-2016-08-10 17:53:00,2016-08-10 18:28:00,Business,Durham,Apex,15.3,Unknown
-2016-08-10 18:49:00,2016-08-10 18:50:00,Business,Apex,Apex,1.0,Unknown
-2016-08-10 19:47:00,2016-08-10 20:02:00,Business,Apex,Cary,6.0,Unknown
-2016-08-11 12:53:00,2016-08-11 13:00:00,Business,Whitebridge,Heritage Pines,2.2,Unknown
-2016-08-11 13:14:00,2016-08-11 13:28:00,Business,Heritage Pines,Edgehill Farms,4.4,Unknown
-2016-08-11 13:32:00,2016-08-11 13:42:00,Business,Edgehill Farms,Whitebridge,2.8,Unknown
-2016-08-11 18:37:00,2016-08-11 19:29:00,Business,Cary,Wake Forest,31.7,Unknown
-2016-08-11 20:59:00,2016-08-11 21:44:00,Business,Wake Forest,Cary,31.9,Unknown
-2016-08-12 18:49:00,2016-08-12 18:52:00,Business,Whitebridge,Westpark Place,1.9,Unknown
-2016-08-12 18:56:00,2016-08-12 19:05:00,Business,Westpark Place,Whitebridge,1.8,Unknown
+2016-08-09 14:20:00,2016-08-09 14:38:00,Business,Whitebridge,Waverly Place,6.9,NaN
+2016-08-09 15:15:00,2016-08-09 15:36:00,Business,Cary,Raleigh,14.9,NaN
+2016-08-09 16:04:00,2016-08-09 16:37:00,Business,Raleigh,Cary,17.4,NaN
+2016-08-10 16:56:00,2016-08-10 17:24:00,Business,Cary,Durham,12.9,NaN
+2016-08-10 17:53:00,2016-08-10 18:28:00,Business,Durham,Apex,15.3,NaN
+2016-08-10 18:49:00,2016-08-10 18:50:00,Business,Apex,Apex,1.0,NaN
+2016-08-10 19:47:00,2016-08-10 20:02:00,Business,Apex,Cary,6.0,NaN
+2016-08-11 12:53:00,2016-08-11 13:00:00,Business,Whitebridge,Heritage Pines,2.2,NaN
+2016-08-11 13:14:00,2016-08-11 13:28:00,Business,Heritage Pines,Edgehill Farms,4.4,NaN
+2016-08-11 13:32:00,2016-08-11 13:42:00,Business,Edgehill Farms,Whitebridge,2.8,NaN
+2016-08-11 18:37:00,2016-08-11 19:29:00,Business,Cary,Wake Forest,31.7,NaN
+2016-08-11 20:59:00,2016-08-11 21:44:00,Business,Wake Forest,Cary,31.9,NaN
+2016-08-12 18:49:00,2016-08-12 18:52:00,Business,Whitebridge,Westpark Place,1.9,NaN
+2016-08-12 18:56:00,2016-08-12 19:05:00,Business,Westpark Place,Whitebridge,1.8,NaN
 ,,Business,Cary,Morrisville,8.4,Meeting
-,,Business,R?walpindi,Unknown Location,15.6,Unknown
-,,Business,Unknown Location,Unknown Location,14.1,Unknown
-,,Business,Unknown Location,Unknown Location,15.7,Unknown
+,,Business,R?walpindi,Unknown Location,15.6,NaN
+,,Business,Unknown Location,Unknown Location,14.1,NaN
+,,Business,Unknown Location,Unknown Location,15.7,NaN
 ,,Business,Unknown Location,Unknown Location,25.9,Temporary Site
-,,Business,Unknown Location,Unknown Location,7.9,Unknown
-,,Business,Unknown Location,Unknown Location,2.7,Unknown
-,,Business,Unknown Location,Unknown Location,5.5,Unknown
-,,Business,Unknown Location,Islamabad,5.7,Unknown
-,,Business,Islamabad,Islamabad,1.2,Unknown
+,,Business,Unknown Location,Unknown Location,7.9,NaN
+,,Business,Unknown Location,Unknown Location,2.7,NaN
+,,Business,Unknown Location,Unknown Location,5.5,NaN
+,,Business,Unknown Location,Islamabad,5.7,NaN
+,,Business,Islamabad,Islamabad,1.2,NaN
 ,,Business,Islamabad,Unknown Location,5.7,Temporary Site
-,,Business,Unknown Location,Unknown Location,16.2,Unknown
-,,Business,Unknown Location,Unknown Location,2.6,Unknown
-,,Business,Unknown Location,Unknown Location,12.1,Unknown
-,,Business,Unknown Location,R?walpindi,1.4,Unknown
-,,Business,R?walpindi,Islamabad,6.4,Unknown
-,,Business,Islamabad,Unknown Location,7.3,Unknown
-,,Business,Unknown Location,Unknown Location,5.3,Unknown
-,,Business,Unknown Location,Unknown Location,5.5,Unknown
+,,Business,Unknown Location,Unknown Location,16.2,NaN
+,,Business,Unknown Location,Unknown Location,2.6,NaN
+,,Business,Unknown Location,Unknown Location,12.1,NaN
+,,Business,Unknown Location,R?walpindi,1.4,NaN
+,,Business,R?walpindi,Islamabad,6.4,NaN
+,,Business,Islamabad,Unknown Location,7.3,NaN
+,,Business,Unknown Location,Unknown Location,5.3,NaN
+,,Business,Unknown Location,Unknown Location,5.5,NaN
 ,,Business,Unknown Location,Unknown Location,7.7,Temporary Site
 ,,Business,Unknown Location,Unknown Location,7.6,Temporary Site
-,,Business,Unknown Location,Noorpur Shahan,7.6,Unknown
-,,Business,Noorpur Shahan,Islamabad,3.3,Unknown
-,,Business,Islamabad,R?walpindi,6.5,Unknown
-,,Business,R?walpindi,Unknown Location,2.0,Unknown
-,,Business,Unknown Location,Islamabad,5.7,Unknown
-,,Business,Islamabad,Islamabad,3.2,Unknown
-,,Business,Islamabad,Unknown Location,12.5,Unknown
+,,Business,Unknown Location,Noorpur Shahan,7.6,NaN
+,,Business,Noorpur Shahan,Islamabad,3.3,NaN
+,,Business,Islamabad,R?walpindi,6.5,NaN
+,,Business,R?walpindi,Unknown Location,2.0,NaN
+,,Business,Unknown Location,Islamabad,5.7,NaN
+,,Business,Islamabad,Islamabad,3.2,NaN
+,,Business,Islamabad,Unknown Location,12.5,NaN
 ,,Business,Unknown Location,Unknown Location,7.6,Airport/Travel
-,,Business,Unknown Location,Unknown Location,7.7,Unknown
-,,Business,Unknown Location,Islamabad,12.2,Unknown
-,,Business,Islamabad,Islamabad,1.4,Unknown
-,,Business,Islamabad,Unknown Location,20.2,Unknown
-,,Business,Unknown Location,Islamabad,9.8,Unknown
-,,Business,Islamabad,Unknown Location,6.3,Unknown
-,,Business,Unknown Location,Islamabad,4.9,Unknown
-,,Business,Islamabad,Islamabad,1.5,Unknown
-,,Business,Islamabad,Unknown Location,10.9,Unknown
-,,Business,Unknown Location,Unknown Location,19.0,Unknown
-,,Business,Unknown Location,Unknown Location,19.0,Unknown
-,,Business,Unknown Location,R?walpindi,7.9,Unknown
-,,Business,R?walpindi,R?walpindi,4.1,Unknown
-,,Business,R?walpindi,Unknown Location,18.7,Unknown
-,,Business,Unknown Location,Noorpur Shahan,8.7,Unknown
-,,Business,Noorpur Shahan,Unknown Location,7.5,Unknown
-,,Business,Unknown Location,Noorpur Shahan,7.7,Unknown
-,,Business,Noorpur Shahan,Islamabad,4.4,Unknown
-,,Business,Islamabad,Unknown Location,5.0,Unknown
-,,Business,Unknown Location,Unknown Location,1.9,Unknown
-,,Business,Unknown Location,Unknown Location,7.9,Unknown
-,,Business,Unknown Location,Unknown Location,17.7,Unknown
-,,Business,Unknown Location,Unknown Location,25.2,Unknown
-,,Business,Unknown Location,Unknown Location,96.2,Unknown
-,,Business,Unknown Location,Unknown Location,35.0,Unknown
-,,Business,Unknown Location,Unknown Location,5.5,Unknown
-,,Business,Unknown Location,Unknown Location,50.4,Unknown
-,,Business,Unknown Location,Lahore,9.2,Unknown
-,,Business,Lahore,Unknown Location,7.3,Unknown
-,,Business,Unknown Location,Unknown Location,5.0,Unknown
-,,Business,Unknown Location,Unknown Location,3.8,Unknown
-,,Business,Unknown Location,Lahore,3.9,Unknown
-,,Business,Lahore,Lahore,7.4,Unknown
-,,Business,Lahore,Lahore,1.5,Unknown
-,,Business,Lahore,Unknown Location,7.9,Unknown
-,,Business,Unknown Location,Lahore,2.9,Unknown
-,,Business,Lahore,Lahore,3.4,Unknown
-,,Business,Lahore,Lahore,3.8,Unknown
-,,Business,Lahore,Unknown Location,5.9,Unknown
-,,Business,Unknown Location,Lahore,9.6,Unknown
-,,Business,Lahore,Lahore,7.0,Unknown
-,,Business,Lahore,Lahore,0.9,Unknown
-,,Business,Lahore,Unknown Location,86.6,Unknown
-,,Business,Unknown Location,Unknown Location,156.9,Unknown
-,,Business,Unknown Location,Noorpur Shahan,10.1,Unknown
-,,Business,Noorpur Shahan,Islamabad,6.2,Unknown
-,,Business,Islamabad,Islamabad,5.3,Unknown
-,,Business,Islamabad,Unknown Location,12.1,Unknown
-,,Business,Unknown Location,Islamabad,10.8,Unknown
-,,Business,Islamabad,Islamabad,4.3,Unknown
-,,Business,Islamabad,Islamabad,2.5,Unknown
+,,Business,Unknown Location,Unknown Location,7.7,NaN
+,,Business,Unknown Location,Islamabad,12.2,NaN
+,,Business,Islamabad,Islamabad,1.4,NaN
+,,Business,Islamabad,Unknown Location,20.2,NaN
+,,Business,Unknown Location,Islamabad,9.8,NaN
+,,Business,Islamabad,Unknown Location,6.3,NaN
+,,Business,Unknown Location,Islamabad,4.9,NaN
+,,Business,Islamabad,Islamabad,1.5,NaN
+,,Business,Islamabad,Unknown Location,10.9,NaN
+,,Business,Unknown Location,Unknown Location,19.0,NaN
+,,Business,Unknown Location,Unknown Location,19.0,NaN
+,,Business,Unknown Location,R?walpindi,7.9,NaN
+,,Business,R?walpindi,R?walpindi,4.1,NaN
+,,Business,R?walpindi,Unknown Location,18.7,NaN
+,,Business,Unknown Location,Noorpur Shahan,8.7,NaN
+,,Business,Noorpur Shahan,Unknown Location,7.5,NaN
+,,Business,Unknown Location,Noorpur Shahan,7.7,NaN
+,,Business,Noorpur Shahan,Islamabad,4.4,NaN
+,,Business,Islamabad,Unknown Location,5.0,NaN
+,,Business,Unknown Location,Unknown Location,1.9,NaN
+,,Business,Unknown Location,Unknown Location,7.9,NaN
+,,Business,Unknown Location,Unknown Location,17.7,NaN
+,,Business,Unknown Location,Unknown Location,25.2,NaN
+,,Business,Unknown Location,Unknown Location,96.2,NaN
+,,Business,Unknown Location,Unknown Location,35.0,NaN
+,,Business,Unknown Location,Unknown Location,5.5,NaN
+,,Business,Unknown Location,Unknown Location,50.4,NaN
+,,Business,Unknown Location,Lahore,9.2,NaN
+,,Business,Lahore,Unknown Location,7.3,NaN
+,,Business,Unknown Location,Unknown Location,5.0,NaN
+,,Business,Unknown Location,Unknown Location,3.8,NaN
+,,Business,Unknown Location,Lahore,3.9,NaN
+,,Business,Lahore,Lahore,7.4,NaN
+,,Business,Lahore,Lahore,1.5,NaN
+,,Business,Lahore,Unknown Location,7.9,NaN
+,,Business,Unknown Location,Lahore,2.9,NaN
+,,Business,Lahore,Lahore,3.4,NaN
+,,Business,Lahore,Lahore,3.8,NaN
+,,Business,Lahore,Unknown Location,5.9,NaN
+,,Business,Unknown Location,Lahore,9.6,NaN
+,,Business,Lahore,Lahore,7.0,NaN
+,,Business,Lahore,Lahore,0.9,NaN
+,,Business,Lahore,Unknown Location,86.6,NaN
+,,Business,Unknown Location,Unknown Location,156.9,NaN
+,,Business,Unknown Location,Noorpur Shahan,10.1,NaN
+,,Business,Noorpur Shahan,Islamabad,6.2,NaN
+,,Business,Islamabad,Islamabad,5.3,NaN
+,,Business,Islamabad,Unknown Location,12.1,NaN
+,,Business,Unknown Location,Islamabad,10.8,NaN
+,,Business,Islamabad,Islamabad,4.3,NaN
+,,Business,Islamabad,Islamabad,2.5,NaN
 ,,Business,Islamabad,Unknown Location,5.7,Temporary Site
-,,Business,Unknown Location,Islamabad,2.8,Unknown
-,,Business,Islamabad,Unknown Location,4.0,Unknown
-,,Business,Unknown Location,Islamabad,5.5,Unknown
-,,Business,Islamabad,Islamabad,2.6,Unknown
-,,Business,Unknown Location,Unknown Location,2.1,Unknown
-,,Business,Unknown Location,Islamabad,8.8,Unknown
-,,Business,Islamabad,Islamabad,4.4,Unknown
-,,Business,Islamabad,Unknown Location,5.3,Unknown
-,,Business,Unknown Location,Unknown Location,13.0,Unknown
-2016-09-01 11:51:00,2016-09-01 12:24:00,Business,Unknown Location,Islamabad,13.0,Unknown
-2016-09-01 17:21:00,2016-09-01 17:36:00,Business,Islamabad,Unknown Location,10.6,Unknown
-2016-09-01 18:49:00,2016-09-01 19:08:00,Business,Unknown Location,Unknown Location,2.2,Unknown
-2016-09-02 11:37:00,2016-09-02 12:24:00,Business,Unknown Location,Islamabad,9.2,Unknown
-2016-09-02 18:56:00,2016-09-02 19:37:00,Business,Unknown Location,Unknown Location,12.9,Unknown
-2016-09-05 10:25:00,2016-09-05 10:44:00,Business,Unknown Location,R?walpindi,17.2,Unknown
-2016-09-06 17:49:00,2016-09-06 17:49:00,Business,Unknown Location,Unknown Location,69.1,Unknown
-2016-09-10 10:28:00,2016-09-10 10:45:00,Business,Unknown Location,Unknown Location,2.8,Unknown
-2016-09-11 09:51:00,2016-09-11 09:55:00,Business,Unknown Location,Unknown Location,8.6,Unknown
-2016-09-11 21:40:00,2016-09-11 21:42:00,Business,Unknown Location,Unknown Location,9.8,Unknown
-2016-09-12 08:07:00,2016-09-12 08:12:00,Business,Unknown Location,Unknown Location,3.6,Unknown
-2016-09-12 11:15:00,2016-09-12 11:24:00,Business,Unknown Location,Unknown Location,1.7,Unknown
-2016-09-12 13:04:00,2016-09-12 13:44:00,Business,Unknown Location,Unknown Location,11.5,Unknown
-,,Business,Unknown Location,Unknown Location,0.7,Unknown
-,,Business,Unknown Location,Unknown Location,0.7,Unknown
-,,Business,Unknown Location,Unknown Location,0.9,Unknown
-,,Business,Unknown Location,Unknown Location,1.6,Unknown
-,,Business,Unknown Location,Unknown Location,9.4,Unknown
-,,Business,R?walpindi,Unknown Location,18.2,Unknown
-,,Business,Unknown Location,Islamabad,10.5,Unknown
-,,Business,Islamabad,Unknown Location,5.7,Unknown
-,,Business,Unknown Location,Unknown Location,18.0,Unknown
-,,Business,Unknown Location,Islamabad,18.3,Unknown
-,,Business,Islamabad,Unknown Location,16.5,Unknown
-,,Business,Unknown Location,R?walpindi,9.6,Unknown
-,,Business,Karachi,Karachi,2.9,Unknown
-,,Business,Karachi,Unknown Location,8.2,Unknown
-,,Business,Unknown Location,Unknown Location,2.4,Unknown
-,,Business,Unknown Location,Unknown Location,5.8,Unknown
-,,Business,Lahore,Lahore,9.8,Unknown
-,,Business,Lahore,Unknown Location,7.3,Unknown
-,,Business,Unknown Location,Unknown Location,195.6,Unknown
-,,Business,Islamabad,Unknown Location,20.5,Unknown
-,,Business,Unknown Location,Islamabad,12.6,Unknown
-,,Business,Islamabad,Islamabad,37.7,Unknown
-,,Business,Islamabad,Unknown Location,16.7,Unknown
-2016-10-03 17:09:00,2016-10-03 17:12:00,Business,Unknown Location,Islamabad,10.5,Unknown
-2016-10-03 18:17:00,2016-10-03 18:34:00,Business,Islamabad,Islamabad,2.8,Unknown
-2016-10-03 18:51:00,2016-10-03 19:01:00,Business,Islamabad,Islamabad,1.6,Unknown
-2016-10-03 22:04:00,2016-10-03 22:33:00,Business,Islamabad,Unknown Location,12.7,Unknown
-2016-10-04 09:50:00,2016-10-04 10:52:00,Business,Unknown Location,Unknown Location,28.6,Unknown
-2016-10-04 12:17:00,2016-10-04 12:18:00,Business,Unknown Location,Unknown Location,15.1,Unknown
-2016-10-06 08:49:00,2016-10-06 11:36:00,Business,Unknown Location,R?walpindi,17.9,Unknown
-2016-10-06 17:23:00,2016-10-06 17:40:00,Business,R?walpindi,Unknown Location,112.6,Unknown
-2016-10-06 18:37:00,2016-10-06 18:39:00,Business,Unknown Location,Unknown Location,18.4,Unknown
-2016-10-06 19:46:00,2016-10-06 20:26:00,Business,Unknown Location,Unknown Location,13.8,Unknown
-2016-10-07 10:56:00,2016-10-07 10:59:00,Business,Unknown Location,Lahore,33.2,Unknown
-2016-10-07 11:27:00,2016-10-07 11:50:00,Business,Lahore,Lahore,2.6,Unknown
-2016-10-07 13:52:00,2016-10-07 14:08:00,Business,Lahore,Unknown Location,5.8,Unknown
-2016-10-07 14:29:00,2016-10-07 15:11:00,Business,Unknown Location,Lahore,8.3,Unknown
-2016-10-07 15:47:00,2016-10-07 16:02:00,Business,Lahore,Lahore,2.4,Unknown
-2016-10-07 18:08:00,2016-10-07 18:27:00,Business,Lahore,Lahore,3.1,Unknown
-2016-10-07 18:33:00,2016-10-07 19:01:00,Business,Lahore,Lahore,6.1,Unknown
-2016-10-08 15:03:00,2016-10-08 15:03:00,Business,Karachi,Karachi,3.6,Unknown
-2016-10-08 18:15:00,2016-10-08 18:18:00,Business,Karachi,Unknown Location,8.0,Unknown
+,,Business,Unknown Location,Islamabad,2.8,NaN
+,,Business,Islamabad,Unknown Location,4.0,NaN
+,,Business,Unknown Location,Islamabad,5.5,NaN
+,,Business,Islamabad,Islamabad,2.6,NaN
+,,Business,Unknown Location,Unknown Location,2.1,NaN
+,,Business,Unknown Location,Islamabad,8.8,NaN
+,,Business,Islamabad,Islamabad,4.4,NaN
+,,Business,Islamabad,Unknown Location,5.3,NaN
+,,Business,Unknown Location,Unknown Location,13.0,NaN
+2016-09-01 11:51:00,2016-09-01 12:24:00,Business,Unknown Location,Islamabad,13.0,NaN
+2016-09-01 17:21:00,2016-09-01 17:36:00,Business,Islamabad,Unknown Location,10.6,NaN
+2016-09-01 18:49:00,2016-09-01 19:08:00,Business,Unknown Location,Unknown Location,2.2,NaN
+2016-09-02 11:37:00,2016-09-02 12:24:00,Business,Unknown Location,Islamabad,9.2,NaN
+2016-09-02 18:56:00,2016-09-02 19:37:00,Business,Unknown Location,Unknown Location,12.9,NaN
+2016-09-05 10:25:00,2016-09-05 10:44:00,Business,Unknown Location,R?walpindi,17.2,NaN
+2016-09-06 17:49:00,2016-09-06 17:49:00,Business,Unknown Location,Unknown Location,69.1,NaN
+2016-09-10 10:28:00,2016-09-10 10:45:00,Business,Unknown Location,Unknown Location,2.8,NaN
+2016-09-11 09:51:00,2016-09-11 09:55:00,Business,Unknown Location,Unknown Location,8.6,NaN
+2016-09-11 21:40:00,2016-09-11 21:42:00,Business,Unknown Location,Unknown Location,9.8,NaN
+2016-09-12 08:07:00,2016-09-12 08:12:00,Business,Unknown Location,Unknown Location,3.6,NaN
+2016-09-12 11:15:00,2016-09-12 11:24:00,Business,Unknown Location,Unknown Location,1.7,NaN
+2016-09-12 13:04:00,2016-09-12 13:44:00,Business,Unknown Location,Unknown Location,11.5,NaN
+,,Business,Unknown Location,Unknown Location,0.7,NaN
+,,Business,Unknown Location,Unknown Location,0.7,NaN
+,,Business,Unknown Location,Unknown Location,0.9,NaN
+,,Business,Unknown Location,Unknown Location,1.6,NaN
+,,Business,Unknown Location,Unknown Location,9.4,NaN
+,,Business,R?walpindi,Unknown Location,18.2,NaN
+,,Business,Unknown Location,Islamabad,10.5,NaN
+,,Business,Islamabad,Unknown Location,5.7,NaN
+,,Business,Unknown Location,Unknown Location,18.0,NaN
+,,Business,Unknown Location,Islamabad,18.3,NaN
+,,Business,Islamabad,Unknown Location,16.5,NaN
+,,Business,Unknown Location,R?walpindi,9.6,NaN
+,,Business,Karachi,Karachi,2.9,NaN
+,,Business,Karachi,Unknown Location,8.2,NaN
+,,Business,Unknown Location,Unknown Location,2.4,NaN
+,,Business,Unknown Location,Unknown Location,5.8,NaN
+,,Business,Lahore,Lahore,9.8,NaN
+,,Business,Lahore,Unknown Location,7.3,NaN
+,,Business,Unknown Location,Unknown Location,195.6,NaN
+,,Business,Islamabad,Unknown Location,20.5,NaN
+,,Business,Unknown Location,Islamabad,12.6,NaN
+,,Business,Islamabad,Islamabad,37.7,NaN
+,,Business,Islamabad,Unknown Location,16.7,NaN
+2016-10-03 17:09:00,2016-10-03 17:12:00,Business,Unknown Location,Islamabad,10.5,NaN
+2016-10-03 18:17:00,2016-10-03 18:34:00,Business,Islamabad,Islamabad,2.8,NaN
+2016-10-03 18:51:00,2016-10-03 19:01:00,Business,Islamabad,Islamabad,1.6,NaN
+2016-10-03 22:04:00,2016-10-03 22:33:00,Business,Islamabad,Unknown Location,12.7,NaN
+2016-10-04 09:50:00,2016-10-04 10:52:00,Business,Unknown Location,Unknown Location,28.6,NaN
+2016-10-04 12:17:00,2016-10-04 12:18:00,Business,Unknown Location,Unknown Location,15.1,NaN
+2016-10-06 08:49:00,2016-10-06 11:36:00,Business,Unknown Location,R?walpindi,17.9,NaN
+2016-10-06 17:23:00,2016-10-06 17:40:00,Business,R?walpindi,Unknown Location,112.6,NaN
+2016-10-06 18:37:00,2016-10-06 18:39:00,Business,Unknown Location,Unknown Location,18.4,NaN
+2016-10-06 19:46:00,2016-10-06 20:26:00,Business,Unknown Location,Unknown Location,13.8,NaN
+2016-10-07 10:56:00,2016-10-07 10:59:00,Business,Unknown Location,Lahore,33.2,NaN
+2016-10-07 11:27:00,2016-10-07 11:50:00,Business,Lahore,Lahore,2.6,NaN
+2016-10-07 13:52:00,2016-10-07 14:08:00,Business,Lahore,Unknown Location,5.8,NaN
+2016-10-07 14:29:00,2016-10-07 15:11:00,Business,Unknown Location,Lahore,8.3,NaN
+2016-10-07 15:47:00,2016-10-07 16:02:00,Business,Lahore,Lahore,2.4,NaN
+2016-10-07 18:08:00,2016-10-07 18:27:00,Business,Lahore,Lahore,3.1,NaN
+2016-10-07 18:33:00,2016-10-07 19:01:00,Business,Lahore,Lahore,6.1,NaN
+2016-10-08 15:03:00,2016-10-08 15:03:00,Business,Karachi,Karachi,3.6,NaN
+2016-10-08 18:15:00,2016-10-08 18:18:00,Business,Karachi,Unknown Location,8.0,NaN
 2016-10-09 14:04:00,2016-10-09 14:23:00,Business,Unknown Location,Unknown Location,7.7,Temporary Site
-2016-10-10 17:22:00,2016-10-10 17:28:00,Business,Islamabad,Islamabad,1.7,Unknown
-2016-10-10 17:33:00,2016-10-10 18:13:00,Business,Islamabad,Unknown Location,9.5,Unknown
+2016-10-10 17:22:00,2016-10-10 17:28:00,Business,Islamabad,Islamabad,1.7,NaN
+2016-10-10 17:33:00,2016-10-10 18:13:00,Business,Islamabad,Unknown Location,9.5,NaN
 2016-10-11 01:27:00,2016-10-11 02:08:00,Business,Unknown Location,R?walpindi,17.1,Meeting
-2016-10-12 19:18:00,2016-10-12 19:21:00,Business,R?walpindi,Unknown Location,18.4,Unknown
-,,Business,Unknown Location,Islamabad,9.8,Unknown
-,,Business,Islamabad,Islamabad,1.0,Unknown
-,,Business,Islamabad,Islamabad,0.7,Unknown
-,,Business,Islamabad,Islamabad,2.3,Unknown
-,,Business,Islamabad,Unknown Location,10.9,Unknown
-,,Business,Unknown Location,R?walpindi,12.7,Unknown
-,,Business,R?walpindi,Unknown Location,12.4,Unknown
-,,Business,Unknown Location,Unknown Location,3.8,Unknown
+2016-10-12 19:18:00,2016-10-12 19:21:00,Business,R?walpindi,Unknown Location,18.4,NaN
+,,Business,Unknown Location,Islamabad,9.8,NaN
+,,Business,Islamabad,Islamabad,1.0,NaN
+,,Business,Islamabad,Islamabad,0.7,NaN
+,,Business,Islamabad,Islamabad,2.3,NaN
+,,Business,Islamabad,Unknown Location,10.9,NaN
+,,Business,Unknown Location,R?walpindi,12.7,NaN
+,,Business,R?walpindi,Unknown Location,12.4,NaN
+,,Business,Unknown Location,Unknown Location,3.8,NaN
 ,,Business,Unknown Location,R?walpindi,17.0,Meeting
-,,Business,Morrisville,Morrisville,6.2,Unknown
-,,Business,Morrisville,Cary,3.1,Unknown
+,,Business,Morrisville,Morrisville,6.2,NaN
+,,Business,Morrisville,Cary,3.1,NaN
 ,,Business,Cary,Durham,10.5,Meeting
-,,Business,Durham,Morrisville,8.1,Unknown
-,,Business,Morrisville,Cary,3.1,Unknown
+,,Business,Durham,Morrisville,8.1,NaN
+,,Business,Morrisville,Cary,3.1,NaN
 ,,Business,Whitebridge,Parkway,2.1,Meeting
-,,Business,Cary,Morrisville,4.3,Unknown
+,,Business,Cary,Morrisville,4.3,NaN
 ,,Business,Morrisville,Cary,2.5,Meal/Entertain
-,,Business,Cary,Raleigh,20.6,Unknown
-,,Business,Raleigh,Cary,17.6,Unknown
-,,Business,Cary,Apex,5.6,Unknown
-,,Business,Apex,Apex,3.3,Unknown
-,,Business,Apex,Cary,5.3,Unknown
-,,Business,Whitebridge,Edgehill Farms,3.3,Unknown
-,,Business,Edgehill Farms,Whitebridge,3.3,Unknown
+,,Business,Cary,Raleigh,20.6,NaN
+,,Business,Raleigh,Cary,17.6,NaN
+,,Business,Cary,Apex,5.6,NaN
+,,Business,Apex,Apex,3.3,NaN
+,,Business,Apex,Cary,5.3,NaN
+,,Business,Whitebridge,Edgehill Farms,3.3,NaN
+,,Business,Edgehill Farms,Whitebridge,3.3,NaN
 ,,Business,Cary,Morrisville,7.9,Temporary Site
-,,Business,Oakland,Emeryville,13.0,Unknown
-,,Business,Emeryville,Berkeley,3.0,Unknown
-,,Business,Berkeley,Emeryville,3.0,Unknown
-,,Business,Emeryville,Oakland,3.8,Unknown
-,,Business,Oakland,San Francisco,9.5,Unknown
-,,Business,SOMISSPO,French Quarter,1.7,Unknown
-,,Business,San Francisco,Berkeley,10.8,Unknown
-,,Business,West Berkeley,North Berkeley Hills,4.1,Unknown
-,,Business,North Berkeley Hills,Southside,2.2,Unknown
-,,Business,Berkeley,Emeryville,4.6,Unknown
-,,Business,Emeryville,Berkeley,3.1,Unknown
-,,Business,Berkeley,San Jose,47.7,Unknown
-,,Business,San Jose,Emeryville,44.6,Unknown
-,,Business,Emeryville,Oakland,13.2,Unknown
-,,Business,Morrisville,Cary,8.7,Unknown
-,,Business,Cary,Raleigh,17.2,Unknown
-,,Business,Raleigh,Cary,14.0,Unknown
-,,Business,Cary,Raleigh,28.1,Unknown
-,,Business,Raleigh,Cary,28.2,Unknown
+,,Business,Oakland,Emeryville,13.0,NaN
+,,Business,Emeryville,Berkeley,3.0,NaN
+,,Business,Berkeley,Emeryville,3.0,NaN
+,,Business,Emeryville,Oakland,3.8,NaN
+,,Business,Oakland,San Francisco,9.5,NaN
+,,Business,SOMISSPO,French Quarter,1.7,NaN
+,,Business,San Francisco,Berkeley,10.8,NaN
+,,Business,West Berkeley,North Berkeley Hills,4.1,NaN
+,,Business,North Berkeley Hills,Southside,2.2,NaN
+,,Business,Berkeley,Emeryville,4.6,NaN
+,,Business,Emeryville,Berkeley,3.1,NaN
+,,Business,Berkeley,San Jose,47.7,NaN
+,,Business,San Jose,Emeryville,44.6,NaN
+,,Business,Emeryville,Oakland,13.2,NaN
+,,Business,Morrisville,Cary,8.7,NaN
+,,Business,Cary,Raleigh,17.2,NaN
+,,Business,Raleigh,Cary,14.0,NaN
+,,Business,Cary,Raleigh,28.1,NaN
+,,Business,Raleigh,Cary,28.2,NaN
 ,,Business,Cary,Morrisville,3.1,Meal/Entertain
 ,,Business,Morrisville,Cary,3.1,Customer Visit
-,,Business,Cary,Durham,16.4,Unknown
-,,Business,Durham,Morrisville,15.4,Unknown
-,,Business,Morrisville,Cary,2.2,Unknown
-,,Business,Cary,Apex,11.2,Unknown
-,,Business,Apex,Eagle Rock,2.2,Unknown
-,,Business,Eagle Rock,Cary,3.6,Unknown
+,,Business,Cary,Durham,16.4,NaN
+,,Business,Durham,Morrisville,15.4,NaN
+,,Business,Morrisville,Cary,2.2,NaN
+,,Business,Cary,Apex,11.2,NaN
+,,Business,Apex,Eagle Rock,2.2,NaN
+,,Business,Eagle Rock,Cary,3.6,NaN
 ,,Business,Whitebridge,Savon Height,3.6,Meal/Entertain
-,,Business,Savon Height,Parkway,4.9,Unknown
+,,Business,Savon Height,Parkway,4.9,NaN
 ,,Business,Parkway,Whitebridge,8.7,Errand/Supplies
 ,,Business,Whitebridge,Parkway,2.1,Meeting
-,,Business,Parkway,Whitebridge,2.1,Unknown
+,,Business,Parkway,Whitebridge,2.1,NaN
 ,,Business,Cary,Morrisville,8.4,Meeting
-,,Business,Morrisville,Morrisville,5.9,Unknown
-,,Business,Huntington Woods,Huntington Woods,12.1,Unknown
-,,Business,Huntington Woods,Weston,3.9,Unknown
-,,Business,Morrisville,Cary,6.2,Unknown
+,,Business,Morrisville,Morrisville,5.9,NaN
+,,Business,Huntington Woods,Huntington Woods,12.1,NaN
+,,Business,Huntington Woods,Weston,3.9,NaN
+,,Business,Morrisville,Cary,6.2,NaN
 ,,Business,Cary,Durham,10.4,Meeting
 ,,Business,Durham,Cary,9.9,Meeting
 ,,Business,Cary,Winston Salem,107.0,Meeting
 ,,Business,Winston Salem,Asheville,133.6,Meeting
 ,,Business,Asheville,Topton,91.8,Meeting
 ,,Business,Topton,Hayesville,40.7,Meeting
-,,Business,Hayesville,Topton,75.7,Unknown
-,,Business,Topton,Bryson City,29.8,Unknown
-,,Business,Bryson City,Bryson City,16.3,Unknown
-,,Business,Bryson City,Bryson City,6.5,Unknown
-,,Business,Bryson City,Bryson City,6.3,Unknown
-,,Business,Bryson City,Almond,6.6,Unknown
-,,Business,Almond,Bryson City,15.2,Unknown
-,,Business,Bryson City,Asheville,68.4,Unknown
-,,Business,Asheville,Mebane,195.9,Unknown
-,,Business,Mebane,Cary,45.2,Unknown
-,,Business,Cary,Morrisville,3.2,Unknown
-,,Business,Morrisville,Raleigh,10.3,Unknown
-,,Business,Raleigh,Cary,13.1,Unknown
+,,Business,Hayesville,Topton,75.7,NaN
+,,Business,Topton,Bryson City,29.8,NaN
+,,Business,Bryson City,Bryson City,16.3,NaN
+,,Business,Bryson City,Bryson City,6.5,NaN
+,,Business,Bryson City,Bryson City,6.3,NaN
+,,Business,Bryson City,Almond,6.6,NaN
+,,Business,Almond,Bryson City,15.2,NaN
+,,Business,Bryson City,Asheville,68.4,NaN
+,,Business,Asheville,Mebane,195.9,NaN
+,,Business,Mebane,Cary,45.2,NaN
+,,Business,Cary,Morrisville,3.2,NaN
+,,Business,Morrisville,Raleigh,10.3,NaN
+,,Business,Raleigh,Cary,13.1,NaN
 ,,Business,Savon Height,Whitebridge,9.6,Errand/Supplies
-2016-11-01 11:50:00,2016-11-01 12:27:00,Business,Cary,Durham,16.5,Unknown
-2016-11-01 16:29:00,2016-11-01 17:02:00,Business,Durham,Cary,12.8,Unknown
-2016-11-01 17:35:00,2016-11-01 17:42:00,Business,Whitebridge,Whitebridge,1.2,Unknown
-2016-11-01 19:14:00,2016-11-01 19:20:00,Business,Whitebridge,Whitebridge,1.0,Unknown
-2016-11-01 19:59:00,2016-11-01 20:12:00,Business,Whitebridge,Whitebridge,4.1,Unknown
+2016-11-01 11:50:00,2016-11-01 12:27:00,Business,Cary,Durham,16.5,NaN
+2016-11-01 16:29:00,2016-11-01 17:02:00,Business,Durham,Cary,12.8,NaN
+2016-11-01 17:35:00,2016-11-01 17:42:00,Business,Whitebridge,Whitebridge,1.2,NaN
+2016-11-01 19:14:00,2016-11-01 19:20:00,Business,Whitebridge,Whitebridge,1.0,NaN
+2016-11-01 19:59:00,2016-11-01 20:12:00,Business,Whitebridge,Whitebridge,4.1,NaN
 2016-11-01 20:41:00,2016-11-01 20:55:00,Business,Whitebridge,Whitebridge,4.2,Meal/Entertain
-2016-11-02 15:10:00,2016-11-02 15:18:00,Business,Whitebridge,Westpark Place,1.4,Unknown
-2016-11-02 15:45:00,2016-11-02 15:52:00,Business,Westpark Place,Whitebridge,1.8,Unknown
+2016-11-02 15:10:00,2016-11-02 15:18:00,Business,Whitebridge,Westpark Place,1.4,NaN
+2016-11-02 15:45:00,2016-11-02 15:52:00,Business,Westpark Place,Whitebridge,1.8,NaN
 2016-11-02 16:46:00,2016-11-02 17:11:00,Business,Cary,Morrisville,8.5,Meeting
-2016-11-02 17:34:00,2016-11-02 17:49:00,Business,Morrisville,Morrisville,5.0,Unknown
-2016-11-02 17:53:00,2016-11-02 18:00:00,Business,Morrisville,Cary,3.8,Unknown
-2016-11-03 11:28:00,2016-11-03 11:34:00,Business,Whitebridge,Hazelwood,2.5,Unknown
-2016-11-03 12:43:00,2016-11-03 12:49:00,Business,Hazelwood,Whitebridge,2.4,Unknown
-2016-11-03 13:42:00,2016-11-03 13:47:00,Business,Whitebridge,Westpark Place,1.4,Unknown
-2016-11-03 14:13:00,2016-11-03 14:26:00,Business,Westpark Place,Whitebridge,1.8,Unknown
+2016-11-02 17:34:00,2016-11-02 17:49:00,Business,Morrisville,Morrisville,5.0,NaN
+2016-11-02 17:53:00,2016-11-02 18:00:00,Business,Morrisville,Cary,3.8,NaN
+2016-11-03 11:28:00,2016-11-03 11:34:00,Business,Whitebridge,Hazelwood,2.5,NaN
+2016-11-03 12:43:00,2016-11-03 12:49:00,Business,Hazelwood,Whitebridge,2.4,NaN
+2016-11-03 13:42:00,2016-11-03 13:47:00,Business,Whitebridge,Westpark Place,1.4,NaN
+2016-11-03 14:13:00,2016-11-03 14:26:00,Business,Westpark Place,Whitebridge,1.8,NaN
 2016-11-03 18:51:00,2016-11-03 19:08:00,Business,Cary,Morrisville,3.1,Meal/Entertain
 2016-11-03 22:46:00,2016-11-03 22:58:00,Business,Morrisville,Cary,3.1,Customer Visit
 2016-11-04 10:02:00,2016-11-04 10:18:00,Business,Cary,Morrisville,7.9,Temporary Site
-2016-11-04 18:14:00,2016-11-04 18:21:00,Business,San Jose,Santa Clara,3.8,Unknown
-2016-11-04 21:04:00,2016-11-04 21:20:00,Business,Agnew,Cory,4.3,Unknown
-2016-11-04 22:12:00,2016-11-04 22:25:00,Business,Cory,Agnew,3.9,Unknown
-2016-11-05 08:34:00,2016-11-05 08:43:00,Business,Agnew,Renaissance,2.2,Unknown
-2016-11-05 17:29:00,2016-11-05 17:40:00,Business,Renaissance,Agnew,2.8,Unknown
-2016-11-05 19:20:00,2016-11-05 19:28:00,Business,Agnew,Agnew,2.2,Unknown
-2016-11-06 10:50:00,2016-11-06 11:04:00,Business,Agnew,Renaissance,2.4,Unknown
+2016-11-04 18:14:00,2016-11-04 18:21:00,Business,San Jose,Santa Clara,3.8,NaN
+2016-11-04 21:04:00,2016-11-04 21:20:00,Business,Agnew,Cory,4.3,NaN
+2016-11-04 22:12:00,2016-11-04 22:25:00,Business,Cory,Agnew,3.9,NaN
+2016-11-05 08:34:00,2016-11-05 08:43:00,Business,Agnew,Renaissance,2.2,NaN
+2016-11-05 17:29:00,2016-11-05 17:40:00,Business,Renaissance,Agnew,2.8,NaN
+2016-11-05 19:20:00,2016-11-05 19:28:00,Business,Agnew,Agnew,2.2,NaN
+2016-11-06 10:50:00,2016-11-06 11:04:00,Business,Agnew,Renaissance,2.4,NaN
 2016-11-06 16:05:00,2016-11-06 16:22:00,Business,Renaissance,Agnew,2.8,Meeting
 2016-11-06 16:27:00,2016-11-06 17:28:00,Business,Santa Clara,Berkeley,43.9,Customer Visit
-2016-11-06 19:04:00,2016-11-06 19:12:00,Business,Downtown,West Berkeley,1.8,Unknown
-2016-11-06 20:06:00,2016-11-06 20:21:00,Business,West Berkeley,Central,3.3,Unknown
+2016-11-06 19:04:00,2016-11-06 19:12:00,Business,Downtown,West Berkeley,1.8,NaN
+2016-11-06 20:06:00,2016-11-06 20:21:00,Business,West Berkeley,Central,3.3,NaN
 2016-11-07 12:28:00,2016-11-07 12:57:00,Business,Berkeley,San Francisco,11.8,Between Offices
 2016-11-07 19:17:00,2016-11-07 19:57:00,Business,San Francisco,Berkeley,13.2,Between Offices
 2016-11-08 10:29:00,2016-11-08 10:57:00,Business,Berkeley,San Francisco,12.2,Between Offices
 2016-11-08 12:16:00,2016-11-08 12:49:00,Business,San Francisco,Berkeley,11.3,Meeting
-2016-11-08 13:41:00,2016-11-08 14:01:00,Business,Berkeley,Emeryville,3.6,Unknown
-2016-11-08 16:21:00,2016-11-08 16:34:00,Business,Emeryville,Berkeley,3.0,Unknown
-2016-11-09 13:08:00,2016-11-09 13:41:00,Business,Berkeley,San Francisco,11.4,Unknown
-2016-11-09 15:58:00,2016-11-09 16:04:00,Business,NOMA,Downtown,0.9,Unknown
-2016-11-09 17:31:00,2016-11-09 18:03:00,Business,Downtown,Sunnyside,6.2,Unknown
-2016-11-09 18:09:00,2016-11-09 18:14:00,Business,Sunnyside,Ingleside,0.7,Unknown
+2016-11-08 13:41:00,2016-11-08 14:01:00,Business,Berkeley,Emeryville,3.6,NaN
+2016-11-08 16:21:00,2016-11-08 16:34:00,Business,Emeryville,Berkeley,3.0,NaN
+2016-11-09 13:08:00,2016-11-09 13:41:00,Business,Berkeley,San Francisco,11.4,NaN
+2016-11-09 15:58:00,2016-11-09 16:04:00,Business,NOMA,Downtown,0.9,NaN
+2016-11-09 17:31:00,2016-11-09 18:03:00,Business,Downtown,Sunnyside,6.2,NaN
+2016-11-09 18:09:00,2016-11-09 18:14:00,Business,Sunnyside,Ingleside,0.7,NaN
 2016-11-09 18:21:00,2016-11-09 18:35:00,Business,Ingleside,Potrero Flats,5.5,Meeting
 2016-11-09 18:40:00,2016-11-09 19:17:00,Business,San Francisco,Oakland,12.7,Customer Visit
-2016-11-09 20:52:00,2016-11-09 21:02:00,Business,Oakland,Berkeley,2.6,Unknown
-2016-11-09 21:56:00,2016-11-09 22:02:00,Business,Central,Central,1.1,Unknown
+2016-11-09 20:52:00,2016-11-09 21:02:00,Business,Oakland,Berkeley,2.6,NaN
+2016-11-09 21:56:00,2016-11-09 22:02:00,Business,Central,Central,1.1,NaN
 2016-11-10 09:46:00,2016-11-10 10:15:00,Business,Berkeley,San Francisco,12.6,Temporary Site
-2016-11-10 10:20:00,2016-11-10 10:31:00,Business,Tenderloin,SOMISSPO,1.2,Unknown
-2016-11-10 14:57:00,2016-11-10 15:07:00,Business,SOMISSPO,Tenderloin,1.1,Unknown
+2016-11-10 10:20:00,2016-11-10 10:31:00,Business,Tenderloin,SOMISSPO,1.2,NaN
+2016-11-10 14:57:00,2016-11-10 15:07:00,Business,SOMISSPO,Tenderloin,1.1,NaN
 2016-11-10 15:17:00,2016-11-10 15:22:00,Business,San Francisco,Oakland,9.9,Temporary Site
 2016-11-10 15:30:00,2016-11-10 15:53:00,Business,Oakland,Berkeley,6.0,Meeting
-2016-11-10 19:18:00,2016-11-10 19:21:00,Business,West Berkeley,Central,0.8,Unknown
+2016-11-10 19:18:00,2016-11-10 19:21:00,Business,West Berkeley,Central,0.8,NaN
 2016-11-11 09:35:00,2016-11-11 10:23:00,Business,Berkeley,Menlo Park,45.9,Customer Visit
-2016-11-11 12:58:00,2016-11-11 13:13:00,Business,Menlo Park,Palo Alto,4.0,Unknown
-2016-11-11 14:20:00,2016-11-11 14:32:00,Business,Palo Alto,Menlo Park,2.5,Unknown
+2016-11-11 12:58:00,2016-11-11 13:13:00,Business,Menlo Park,Palo Alto,4.0,NaN
+2016-11-11 14:20:00,2016-11-11 14:32:00,Business,Palo Alto,Menlo Park,2.5,NaN
 2016-11-11 14:39:00,2016-11-11 15:46:00,Business,Menlo Park,Berkeley,36.6,Customer Visit
-2016-11-11 18:30:00,2016-11-11 18:43:00,Business,Central,College Avenue,2.9,Unknown
-2016-11-11 21:08:00,2016-11-11 21:18:00,Business,College Avenue,Central,2.6,Unknown
-2016-11-12 10:32:00,2016-11-12 10:52:00,Business,Central,South,2.3,Unknown
-2016-11-12 10:55:00,2016-11-12 11:25:00,Business,South,Downtown,6.4,Unknown
-2016-11-12 13:07:00,2016-11-12 13:15:00,Business,Downtown,Central,1.4,Unknown
-2016-11-12 13:46:00,2016-11-12 13:50:00,Business,Central,West Berkeley,0.6,Unknown
+2016-11-11 18:30:00,2016-11-11 18:43:00,Business,Central,College Avenue,2.9,NaN
+2016-11-11 21:08:00,2016-11-11 21:18:00,Business,College Avenue,Central,2.6,NaN
+2016-11-12 10:32:00,2016-11-12 10:52:00,Business,Central,South,2.3,NaN
+2016-11-12 10:55:00,2016-11-12 11:25:00,Business,South,Downtown,6.4,NaN
+2016-11-12 13:07:00,2016-11-12 13:15:00,Business,Downtown,Central,1.4,NaN
+2016-11-12 13:46:00,2016-11-12 13:50:00,Business,Central,West Berkeley,0.6,NaN
 2016-11-12 14:22:00,2016-11-12 14:53:00,Business,West Berkeley,South,5.9,Meeting
-2016-11-12 15:14:00,2016-11-12 15:21:00,Business,South,Southwest Berkeley,0.8,Unknown
-2016-11-12 15:25:00,2016-11-12 15:36:00,Business,Berkeley,Emeryville,1.3,Unknown
+2016-11-12 15:14:00,2016-11-12 15:21:00,Business,South,Southwest Berkeley,0.8,NaN
+2016-11-12 15:25:00,2016-11-12 15:36:00,Business,Berkeley,Emeryville,1.3,NaN
 2016-11-12 15:40:00,2016-11-12 15:59:00,Business,Emeryville,Berkeley,3.7,Errand/Supplies
-,,Business,Central,Central,2.3,Unknown
-,,Business,Central,Central,2.6,Unknown
-,,Business,Central,Southside,1.9,Unknown
-,,Business,Southside,West Berkeley,2.1,Unknown
+,,Business,Central,Central,2.3,NaN
+,,Business,Central,Central,2.6,NaN
+,,Business,Central,Southside,1.9,NaN
+,,Business,Southside,West Berkeley,2.1,NaN
 ,,Business,West Berkeley,Southside,4.0,Meeting
-,,Business,Southside,South Berkeley,0.9,Unknown
-,,Business,South Berkeley,Southside,0.9,Unknown
-,,Business,Southside,Central,2.4,Unknown
-,,Business,Central,Southside,1.9,Unknown
-,,Business,Southside,Central,1.9,Unknown
+,,Business,Southside,South Berkeley,0.9,NaN
+,,Business,South Berkeley,Southside,0.9,NaN
+,,Business,Southside,Central,2.4,NaN
+,,Business,Central,Southside,1.9,NaN
+,,Business,Southside,Central,1.9,NaN
 ,,Business,Berkeley,Mountain View,44.6,Customer Visit
 ,,Business,Mountain View,Berkeley,43.6,Customer Visit
-,,Business,Berkeley,Emeryville,2.5,Unknown
+,,Business,Berkeley,Emeryville,2.5,NaN
 ,,Business,Emeryville,Berkeley,3.7,Errand/Supplies
-,,Business,Berkeley,Oakland,5.1,Unknown
+,,Business,Berkeley,Oakland,5.1,NaN
 ,,Business,Oakland,San Francisco,9.7,Temporary Site
 ,,Business,San Francisco,Berkeley,11.8,Temporary Site
 ,,Business,Berkeley,El Cerrito,2.3,Temporary Site
@@ -974,8 +974,8 @@ START_DATE,END_DATE,CATEGORY,START,STOP,MILES,PURPOSE
 ,,Business,Krendle Woods,Whitebridge,6.1,Meeting
 ,,Business,Cary,Durham,10.3,Meeting
 ,,Business,Durham,Cary,10.5,Meeting
-,,Business,Cary,Cary,1.5,Unknown
-,,Business,Cary,Cary,1.8,Unknown
+,,Business,Cary,Cary,1.5,NaN
+,,Business,Cary,Cary,1.8,NaN
 ,,Business,Cary,Apex,5.4,Errand/Supplies
 ,,Business,Apex,Cary,5.4,Customer Visit
 ,,Business,Cary,Cary,39.2,Between Offices
@@ -993,21 +993,21 @@ START_DATE,END_DATE,CATEGORY,START,STOP,MILES,PURPOSE
 ,,Business,Cary,Morrisville,3.0,Meal/Entertain
 ,,Business,Morrisville,Cary,3.5,Customer Visit
 ,,Business,Cary,Cary,5.9,Meal/Entertain
-,,Business,Cary,Cary,1.9,Unknown
-,,Business,Cary,Cary,3.3,Unknown
-,,Business,Cary,Cary,1.3,Unknown
+,,Business,Cary,Cary,1.9,NaN
+,,Business,Cary,Cary,3.3,NaN
+,,Business,Cary,Cary,1.3,NaN
 ,,Business,Cary,Durham,10.3,Meeting
 ,,Business,Durham,Cary,11.1,Meeting
-,,Business,Cary,Cary,1.4,Unknown
+,,Business,Cary,Cary,1.4,NaN
 ,,Business,Cary,Apex,5.1,Meeting
 ,,Business,Apex,Holly Springs,9.0,Meeting
 ,,Business,Holly Springs,Cary,13.3,Between Offices
 ,,Business,Cary,Cary,2.5,Errand/Supplies
 ,,Business,Cary,Morrisville,3.3,Meal/Entertain
-,,Business,Morrisville,Cary,2.9,Unknown
+,,Business,Morrisville,Cary,2.9,NaN
 ,,Business,Cary,Raleigh,8.5,Customer Visit
 ,,Business,Raleigh,Morrisville,6.7,Temporary Site
-,,Business,Morrisville,Cary,3.1,Unknown
+,,Business,Morrisville,Cary,3.1,NaN
 2016-12-01 07:44:00,2016-12-01 07:59:00,Business,Cary,Cary,5.5,Meeting
 2016-12-01 08:37:00,2016-12-01 08:53:00,Business,Cary,Cary,5.5,Errand/Supplies
 2016-12-01 18:00:00,2016-12-01 18:12:00,Business,Cary,Morrisville,2.9,Meal/Entertain
@@ -1017,11 +1017,11 @@ START_DATE,END_DATE,CATEGORY,START,STOP,MILES,PURPOSE
 2016-12-02 20:41:00,2016-12-02 20:48:00,Business,Cary,Morrisville,3.3,Meal/Entertain
 2016-12-02 22:59:00,2016-12-02 23:07:00,Business,Morrisville,Cary,3.0,Customer Visit
 2016-12-03 18:35:00,2016-12-03 18:56:00,Business,Cary,Wake Co.,6.6,Errand/Supplies
-2016-12-03 19:08:00,2016-12-03 19:15:00,Business,Wake Co.,Morrisville,1.8,Unknown
+2016-12-03 19:08:00,2016-12-03 19:15:00,Business,Wake Co.,Morrisville,1.8,NaN
 2016-12-03 20:31:00,2016-12-03 20:41:00,Business,Morrisville,Cary,3.0,Customer Visit
 2016-12-04 18:56:00,2016-12-04 19:03:00,Business,Cary,Morrisville,2.9,Meal/Entertain
 2016-12-04 20:23:00,2016-12-04 20:34:00,Business,Morrisville,Cary,3.4,Customer Visit
-2016-12-05 18:04:00,2016-12-05 18:17:00,Business,Cary,Cary,4.1,Unknown
+2016-12-05 18:04:00,2016-12-05 18:17:00,Business,Cary,Cary,4.1,NaN
 2016-12-05 19:22:00,2016-12-05 19:37:00,Business,Cary,Cary,3.8,Meal/Entertain
 2016-12-07 12:03:00,2016-12-07 12:32:00,Business,Cary,Cary,6.6,Meeting
 2016-12-07 12:35:00,2016-12-07 12:46:00,Business,Cary,Cary,4.0,Meeting
@@ -1049,8 +1049,8 @@ START_DATE,END_DATE,CATEGORY,START,STOP,MILES,PURPOSE
 2016-12-12 20:48:00,2016-12-12 20:57:00,Business,Morrisville,Cary,3.0,Customer Visit
 ,,Business,Cary,Cary,4.2,Errand/Supplies
 ,,Business,Cary,Cary,4.1,Meal/Entertain
-,,Business,Cary,Cary,3.4,Unknown
-,,Business,Cary,Cary,3.3,Unknown
+,,Business,Cary,Cary,3.4,NaN
+,,Business,Cary,Cary,3.3,NaN
 ,,Business,Cary,Morrisville,3.0,Meal/Entertain
 ,,Business,Morrisville,Cary,3.1,Customer Visit
 ,,Business,Cary,Morrisville,10.6,Meeting
@@ -1058,19 +1058,19 @@ START_DATE,END_DATE,CATEGORY,START,STOP,MILES,PURPOSE
 ,,Business,Unknown Location,Unknown Location,5.3,Temporary Site
 ,,Business,Unknown Location,Unknown Location,4.9,Errand/Supplies
 ,,Business,Unknown Location,Unknown Location,10.2,Errand/Supplies
-,,Business,Unknown Location,Unknown Location,9.2,Unknown
+,,Business,Unknown Location,Unknown Location,9.2,NaN
 ,,Business,Unknown Location,Islamabad,7.7,Errand/Supplies
 ,,Business,Islamabad,Rawalpindi,5.9,Temporary Site
 ,,Business,Rawalpindi,Unknown Location,0.7,Errand/Supplies
-,,Business,Unknown Location,Unknown Location,1.3,Unknown
-,,Business,Unknown Location,Unknown Location,2.5,Unknown
-,,Business,Unknown Location,Unknown Location,5.3,Unknown
-,,Business,Unknown Location,Unknown Location,5.4,Unknown
+,,Business,Unknown Location,Unknown Location,1.3,NaN
+,,Business,Unknown Location,Unknown Location,2.5,NaN
+,,Business,Unknown Location,Unknown Location,5.3,NaN
+,,Business,Unknown Location,Unknown Location,5.4,NaN
 ,,Business,Unknown Location,Rawalpindi,10.2,Customer Visit
 ,,Business,Rawalpindi,Islamabad,7.2,Customer Visit
-,,Business,Islamabad,Unknown Location,2.2,Unknown
+,,Business,Islamabad,Unknown Location,2.2,NaN
 ,,Business,Unknown Location,Unknown Location,11.0,Meeting
-,,Business,Unknown Location,Rawalpindi,12.0,Unknown
+,,Business,Unknown Location,Rawalpindi,12.0,NaN
 ,,Business,Rawalpindi,Rawalpindi,3.3,Errand/Supplies
 ,,Business,Rawalpindi,Unknown Location,19.4,Meeting
 ,,Business,Unknown Location,Unknown Location,1.7,Errand/Supplies
@@ -1142,7 +1142,7 @@ START_DATE,END_DATE,CATEGORY,START,STOP,MILES,PURPOSE
 ,,Business,Kar?chi,Unknown Location,3.0,Meal/Entertain
 ,,Business,Unknown Location,Kar?chi,4.1,Customer Visit
 ,,Business,Kar?chi,Kar?chi,7.2,Meeting
-,,Business,Kar?chi,Unknown Location,6.4,Unknown
+,,Business,Kar?chi,Unknown Location,6.4,NaN
 ,,Business,Unknown Location,Kar?chi,12.9,Meeting
 ,,Business,Kar?chi,Kar?chi,2.8,Errand/Supplies
 ,,Business,Kar?chi,Kar?chi,2.9,Errand/Supplies
@@ -1154,4 +1154,4 @@ START_DATE,END_DATE,CATEGORY,START,STOP,MILES,PURPOSE
 ,,Business,Unknown Location,Unknown Location,16.2,Meeting
 ,,Business,Katunayake,Gampaha,6.4,Temporary Site
 ,,Business,Gampaha,Ilukwatta,48.2,Temporary Site
-,,,,,12204.7,Unknown
+,,,,,12204.7,NaN
